@@ -1,285 +1,250 @@
-🧠 Enterprise Knowledge Assistant
-GenAI System for Internal Policy & IT Q&A (LoRA Fine-Tuned LLM)
-📌 Overview
+#  ENTERPRISE KNOWLEDGE ASSISTANT
+## Fine-Tuned an Open-Source LLM for Internal Policy & IT Q&A
+---
 
-This project demonstrates the end-to-end design of a production-style GenAI system for answering internal enterprise policy and IT support questions.
+## Project Overview
 
-An open-source Large Language Model (LLM) is fine-tuned using Parameter-Efficient Fine-Tuning (LoRA) on a custom internal knowledge dataset. The system is designed with hallucination mitigation, response controllability, evaluation, and deployment readiness in mind.
+This project demonstrates the **complete lifecycle of building a production-style GenAI system**, starting from **problem definition and dataset creation** to **model fine-tuning, evaluation, safety controls, UI deployment, and API exposure**.
 
-Unlike generic chatbots, this assistant prioritizes:
+The objective was **not** to build a generic chatbot, but to design a **reliable enterprise-grade internal knowledge assistant** that prioritizes:
 
-Accuracy over creativity
+- Factual correctness  
+- Deterministic behavior  
+- Hallucination mitigation  
+- Production-readiness  
 
-Reliability over verbosity
+This mirrors how **GenAI systems are built and deployed in real organizations**.
 
-Enterprise constraints over scale
+---
 
-🎯 Problem Statement
+##  Problem Definition
 
-Internal teams often rely on:
+Enterprises maintain large volumes of internal documentation such as:
 
-HR portals
+- HR policies  
+- IT support procedures  
+- Security guidelines  
+- Engineering workflows  
 
-IT tickets
+These documents are often scattered across portals and wikis, making information retrieval slow and inconsistent.
 
-Documentation wikis
+### Goal
 
-These are slow to navigate and inconsistent.
-This project builds a GenAI-powered internal assistant that can answer policy and IT questions safely and reliably, while minimizing hallucinations.
+Build a **GenAI-powered assistant** that can:
 
-🏗️ System Architecture
-User Query
-   ↓
-Prompt Engineering (Instruction Format)
-   ↓
-LoRA Fine-Tuned LLM (GPT-Neo-125M)
-   ↓
-Decoding Controls + Safety Guardrails
-   ↓
-Domain Tagging + Fallback Logic
-   ↓
-Response (UI / API)
+- Answer internal policy and IT questions  
+- Avoid hallucinations  
+- Respond in a professional, policy-aligned tone  
+- Behave deterministically and safely  
 
-🧠 Model & Training Details
-Base Model
+---
 
-Model: EleutherAI/gpt-neo-125M
+## Dataset Design & Creation
 
-Chosen intentionally for:
+### Why a Custom Dataset?
 
-Low inference cost
+Generic datasets (e.g., Dolly, Alpaca) result in **generic and unreliable answers**.  
+Enterprise use cases require **authoritative, structured, and policy-driven responses**.
 
-Fast iteration
+### Dataset Characteristics
 
-Realistic enterprise constraints
+- Instruction-following (Alpaca-style format)
+- Clear, authoritative answers
+- Explicit approvals, restrictions, and escalation paths
+- Focus on enterprise tone (not conversational chat)
 
-This project focuses on model adaptation quality, not model size.
+## 🗂️ Domains Covered
 
-Fine-Tuning Strategy
+The dataset spans multiple enterprise-relevant domains to ensure broad internal coverage:
 
-Technique: LoRA (Low-Rank Adaptation)
+- **HR Policies**
+- **IT Support**
+- **Security & Compliance**
+- **Engineering Processes**
 
-Framework: HuggingFace Transformers + PEFT
+This dataset design ensures the model learns **enterprise language and decision boundaries**, rather than producing generic or conversational explanations.
 
-LoRA Configuration:
+---
 
-Rank (r): 16
+## 🧠 Model Selection Strategy
 
-Alpha: 32
+### Base Model
 
-Target modules: q_proj, k_proj, v_proj, out_proj
+- **EleutherAI / GPT-Neo-125M**
 
-Training Setup:
+### Why a Small Model?
 
-Epochs: 3
+The choice of a smaller open-source model was a **deliberate engineering decision**, driven by real-world enterprise constraints:
 
-Learning Rate: 1e-4
+- Faster experimentation and iteration
+- Lower compute and inference cost
+- More realistic deployment scenarios
+- Emphasis on **model adaptation quality**, not raw parameter count
 
-FP16 training
+> This project demonstrates that **reliability and controllability matter more than scale** in enterprise GenAI systems.
 
-Custom data collator with prompt masking
+---
 
-📊 Dataset Design
-Dataset Type
+## 🔧 Fine-Tuning Approach (LoRA)
 
-Instruction-following, enterprise-style Q&A
+### Technique Used
 
-Alpaca-style JSONL format
+- **LoRA (Low-Rank Adaptation)** using HuggingFace PEFT
 
-Domains Covered
+### Why LoRA?
 
-HR Policies
+- Parameter-efficient fine-tuning
+- Faster training cycles
+- Easy updates when policies change
+- Widely adopted in production GenAI systems
 
-IT Support
+### Training Configuration
 
-Security & Compliance
+- LoRA Rank (`r`): 16
+- LoRA Alpha: 32
+- Epochs: 3
+- Learning Rate: 1e-4
+- FP16 training
+- Prompt masking (loss computed only on responses)
 
-Engineering Processes
+This approach allowed the model to **internalize policy tone and structure without overfitting**.
 
-Design Principles
+---
 
-Authoritative, policy-aligned tone
+## 📉 Training Monitoring & Loss Analysis
 
-Explicit approvals / denials
+- Training loss was logged using the HuggingFace `Trainer`
+- Loss curves were plotted to verify:
+  - Stable convergence
+  - Meaningful learning
+  - No divergence or collapse
 
-Escalation paths (HR / IT / Security)
+This validated that **learning actually occurred**, rather than merely executing training code.
 
-No conversational fluff
+---
 
-This ensures the model learns enterprise language, not generic explanations.
+## 🧪 Evaluation Framework (Before vs After)
 
-🛡️ Hallucination Mitigation & Safety
+Rather than relying solely on training loss, the model was evaluated on **unseen and paraphrased policy questions** to test generalization.
 
-To ensure reliability, the system includes multiple guardrails:
+### Evaluation Methodology
 
-Decoding Controls
+- Base model vs fine-tuned model
+- Identical prompts and decoding settings
+- Manual correctness assessment
 
-Deterministic decoding (do_sample=False)
+### Evaluation Criteria
 
-Low temperature (0.1)
+- **Correct**
+- **Partially Correct**
+- **Hallucinated**
 
-Repetition penalty
+### Results
 
-N-gram repetition blocking
+- Improved factual accuracy
+- Stronger policy alignment
+- Significant reduction in hallucinations
 
-Fallback Logic
+Evaluation outputs are saved in:
 
-If a response is:
 
-Too short
+---
 
-Vague
+## 🛡️ Hallucination Mitigation & Safety Controls
 
-Repetitive
+Enterprise GenAI systems must **fail safely**.
 
-Out-of-domain
+### Techniques Applied
 
-The system returns a safe fallback:
+- Deterministic decoding (`do_sample=False`)
+- Low temperature (`0.1`)
+- Repetition penalty
+- N-gram repetition blocking
+- Output quality heuristics
 
-“This information is not clearly defined in the current company policy. Please contact HR or IT support.”
+### Fallback Logic
 
-Domain Awareness
+If the model response is:
 
-Responses are tagged as:
+- Too short
+- Vague
+- Repetitive
+- Out-of-domain
 
-HR Policy
+The system returns a safe fallback message:
 
-IT Support
+> “This information is not clearly defined in the current company policy. Please contact HR or IT support.”
 
-Security Policy
+This mirrors **real-world enterprise AI safety practices**.
 
-Engineering Process
+---
 
-This improves clarity and trust.
+## 🏷️ Domain-Aware Responses
 
-📈 Evaluation Framework
+Each query is automatically classified into one of the following domains:
 
-The model was evaluated using unseen, paraphrased policy questions to test generalization rather than memorization.
+- **HR Policy**
+- **IT Support**
+- **Security Policy**
+- **Engineering Process**
 
-Evaluation Method
+Responses are tagged accordingly to improve **clarity, trust, and interpretability**.
 
-Side-by-side comparison:
+---
 
-Base model vs Fine-tuned model
+## 🖥️ User Interface (Gradio)
 
-Manual labeling:
+A **clean, enterprise-style UI** was built using Gradio.
 
-Correct
+### UI Design Principles
 
-Partially correct
+- Professional (non-chatty)
+- Clear question input
+- Domain-tagged responses
+- Example prompts for demos
 
-Hallucinated
+📸 Screenshots of the **Gradio UI** are included in the repository  
+🎥 A **Loom demo video** will be added later
 
-Results
+This UI reflects how **internal enterprise tools are typically presented**.
 
-Significant improvement in:
+---
+## ⚠️ Limitations
 
-Policy alignment
+- No real-time policy updates
+- Ambiguous queries may trigger fallback
+- Requires retraining when policies change
+- Not suitable for legal or financial advice
 
-Factual tone
+Limitations are **explicitly documented** for responsible GenAI usage.
 
-Reduction in hallucinations
+---
 
-Evaluation results are available in:
+## 🔮 Future Improvements
 
-evaluation_results.csv
+- Retrieval-Augmented Generation (RAG)
+- Confidence scoring
+- Monitoring and logging
+- Access control and authentication
+- Policy versioning
 
-🖥️ User Interface (Gradio)
+---
 
-The project includes a clean enterprise-style UI built using Gradio.
+## 🏆 Why This Project Matters
 
-UI Features
+This project demonstrates **GenAI engineering maturity**:
 
-Professional layout (non-chatty)
+- Dataset ownership
+- Efficient fine-tuning
+- Hallucination control
+- Evaluation-driven iteration
+- Production-style deployment
+- Enterprise-focused UX design
 
-Example question prompts
+It reflects how **GenAI systems are built in real enterprise environments**, not academic demos!
 
-Domain-tagged responses
 
-Crisp, policy-focused answers
 
-The UI is designed to resemble a real internal company tool, not a chatbot demo.
 
-🚀 API Deployment (FastAPI)
 
-To simulate production deployment, the model is exposed via a FastAPI inference endpoint.
 
-Endpoint
-POST /ask
-
-Example Request
-{
-  "question": "What is the company password policy?"
-}
-
-Why This Matters
-
-Separates training from serving
-
-Demonstrates production thinking
-
-Enables future scaling and monitoring
-
-⚠️ Limitations
-
-No real-time policy updates
-
-Ambiguous queries may trigger fallback
-
-Requires retraining when policies change
-
-Not intended for legal or financial advice
-
-These limitations are explicitly documented to ensure responsible GenAI usage.
-
-🔮 Future Improvements
-
-Retrieval-Augmented Generation (RAG)
-
-Confidence scoring
-
-Access control & authentication
-
-Logging and monitoring
-
-Policy versioning
-
-🧩 Why This Project is GenAI-Focused
-
-This project emphasizes GenAI engineering principles:
-
-Model controllability
-
-Safety & reliability
-
-Evaluation-driven iteration
-
-Production-oriented design
-
-Enterprise realism
-
-It goes beyond “fine-tuning a model” and treats the system as a deployable GenAI application.
-
-🧑‍💻 Tech Stack
-
-Python
-
-HuggingFace Transformers
-
-PEFT (LoRA)
-
-PyTorch
-
-Gradio
-
-FastAPI
-
-Google Colab
-
-📌 Conclusion
-
-This project demonstrates how open-source LLMs can be adapted for enterprise use cases using efficient fine-tuning techniques, strong safety controls, and production-aware design.
-
-It reflects the kind of decision-making, iteration, and responsibility expected from a GenAI / Applied AI Engineer.
-
-⭐ If you like this project, feel free to star the repository!
