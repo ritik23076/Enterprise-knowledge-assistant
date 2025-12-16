@@ -6,6 +6,8 @@
   <img src="Gradio_live.png" alt="Enterprise Knowledge Assistant UI" width="900"/>
 </p>
 
+Gradio live link:-https://365014b8b1dbf62924.gradio.live/
+
 
 ## Project Overview
 
