@@ -1,0 +1,750 @@
+{"instruction": "How does the company conduct performance reviews?", "input": "", "output": "Performance reviews are conducted bi-annually based on goals, feedback, and performance metrics."}
+{"instruction": "What is the company password policy?", "input": "", "output": "Passwords must be at least 12 characters long and include a mix of letters, numbers, and symbols."}
+{"instruction": "How do I reset my company email password?", "input": "", "output": "You can reset your email password using the internal IT portal or by contacting the IT helpdesk."}
+{"instruction": "What version control system does the company use?", "input": "", "output": "The company uses Git for version control with repositories hosted on a centralized platform."}
+{"instruction": "How should developers document their code?", "input": "", "output": "Developers are expected to write clear comments and maintain updated documentation."}
+{"instruction": "How are production incidents handled?", "input": "", "output": "Production incidents are logged, escalated, and reviewed during post-incident analysis."}
+{"instruction": "How can I request new software installation?", "input": "", "output": "Submit a software request through the IT service portal for approval."}
+{"instruction": "What is the process for reporting workplace harassment?", "input": "", "output": "Employees should report incidents to HR through the official reporting channel for confidential handling."}
+{"instruction": "How can I request new software installation?", "input": "", "output": "Submit a software request through the IT service portal for approval."}
+{"instruction": "Is sharing login credentials allowed?", "input": "", "output": "Sharing login credentials is strictly prohibited under company security policy."}
+{"instruction": "How do I reset my company email password?", "input": "", "output": "You can reset your email password using the internal IT portal or by contacting the IT helpdesk."}
+{"instruction": "How does the company handle employee data privacy?", "input": "", "output": "Employee data is stored securely and accessed only by authorized personnel in compliance with data protection regulations."}
+{"instruction": "What benefits does the company offer employees?", "input": "", "output": "The company offers health insurance, paid leave, and professional development benefits."}
+{"instruction": "Is sharing login credentials allowed?", "input": "", "output": "Sharing login credentials is strictly prohibited under company security policy."}
+{"instruction": "What is the company work from home policy?", "input": "", "output": "Employees are allowed to work from home up to three days per week with prior approval from their manager."}
+{"instruction": "What training programs are available to employees?", "input": "", "output": "Employees have access to internal and external training programs for skill development."}
+{"instruction": "What training programs are available to employees?", "input": "", "output": "Employees have access to internal and external training programs for skill development."}
+{"instruction": "How often should passwords be changed?", "input": "", "output": "Passwords should be changed every 90 days or immediately after a suspected breach."}
+{"instruction": "What benefits does the company offer employees?", "input": "", "output": "The company offers health insurance, paid leave, and professional development benefits."}
+{"instruction": "How do I reset my company email password?", "input": "", "output": "You can reset your email password using the internal IT portal or by contacting the IT helpdesk."}
+{"instruction": "Is sharing login credentials allowed?", "input": "", "output": "Sharing login credentials is strictly prohibited under company security policy."}
+{"instruction": "How do I reset my company email password?", "input": "", "output": "You can reset your email password using the internal IT portal or by contacting the IT helpdesk."}
+{"instruction": "Is sharing login credentials allowed?", "input": "", "output": "Sharing login credentials is strictly prohibited under company security policy."}
+{"instruction": "What is the probation period for new employees?", "input": "", "output": "The probation period for new employees is six months."}
+{"instruction": "What training programs are available to employees?", "input": "", "output": "Employees have access to internal and external training programs for skill development."}
+{"instruction": "What is the company leave policy?", "input": "", "output": "Employees are entitled to 18 paid leaves per year, including casual and sick leave."}
+{"instruction": "How does the company conduct performance reviews?", "input": "", "output": "Performance reviews are conducted bi-annually based on goals, feedback, and performance metrics."}
+{"instruction": "What is the policy for using personal devices at work?", "input": "", "output": "Personal devices may be used only if they comply with company security standards."}
+{"instruction": "What is the company password policy?", "input": "", "output": "Passwords must be at least 12 characters long and include a mix of letters, numbers, and symbols."}
+{"instruction": "How can I request new software installation?", "input": "", "output": "Submit a software request through the IT service portal for approval."}
+{"instruction": "What is the process for reporting workplace harassment?", "input": "", "output": "Employees should report incidents to HR through the official reporting channel for confidential handling."}
+{"instruction": "What is the policy for using personal devices at work?", "input": "", "output": "Personal devices may be used only if they comply with company security standards."}
+{"instruction": "How do I connect to the company VPN?", "input": "", "output": "Install the VPN client provided by IT and log in using your company credentials."}
+{"instruction": "How often should passwords be changed?", "input": "", "output": "Passwords should be changed every 90 days or immediately after a suspected breach."}
+{"instruction": "How are production incidents handled?", "input": "", "output": "Production incidents are logged, escalated, and reviewed during post-incident analysis."}
+{"instruction": "What is the probation period for new employees?", "input": "", "output": "The probation period for new employees is six months."}
+{"instruction": "How does the company handle security incidents?", "input": "", "output": "Security incidents are investigated by the security team following established response procedures."}
+{"instruction": "What should employees do if they suspect a phishing email?", "input": "", "output": "Employees should report phishing emails to the security team and avoid clicking on links."}
+{"instruction": "What is the probation period for new employees?", "input": "", "output": "The probation period for new employees is six months."}
+{"instruction": "How does the company handle employee data privacy?", "input": "", "output": "Employee data is stored securely and accessed only by authorized personnel in compliance with data protection regulations."}
+{"instruction": "What version control system does the company use?", "input": "", "output": "The company uses Git for version control with repositories hosted on a centralized platform."}
+{"instruction": "How can employees apply for internal job openings?", "input": "", "output": "Internal job openings are posted on the company portal and employees may apply directly."}
+{"instruction": "What version control system does the company use?", "input": "", "output": "The company uses Git for version control with repositories hosted on a centralized platform."}
+{"instruction": "What is the deployment approval process?", "input": "", "output": "Deployments require approval from the team lead and successful completion of automated tests."}
+{"instruction": "How does the company conduct performance reviews?", "input": "", "output": "Performance reviews are conducted bi-annually based on goals, feedback, and performance metrics."}
+{"instruction": "What is the deployment approval process?", "input": "", "output": "Deployments require approval from the team lead and successful completion of automated tests."}
+{"instruction": "How does the company handle employee data privacy?", "input": "", "output": "Employee data is stored securely and accessed only by authorized personnel in compliance with data protection regulations."}
+{"instruction": "How can employees apply for internal job openings?", "input": "", "output": "Internal job openings are posted on the company portal and employees may apply directly."}
+{"instruction": "What is the company password policy?", "input": "", "output": "Passwords must be at least 12 characters long and include a mix of letters, numbers, and symbols."}
+{"instruction": "How are production incidents handled?", "input": "", "output": "Production incidents are logged, escalated, and reviewed during post-incident analysis."}
+{"instruction": "How can I request new software installation?", "input": "", "output": "Submit a software request through the IT service portal for approval."}
+{"instruction": "What benefits does the company offer employees?", "input": "", "output": "The company offers health insurance, paid leave, and professional development benefits."}
+{"instruction": "What is the company leave policy?", "input": "", "output": "Employees are entitled to 18 paid leaves per year, including casual and sick leave."}
+{"instruction": "What is the company work from home policy?", "input": "", "output": "Employees are allowed to work from home up to three days per week with prior approval from their manager."}
+{"instruction": "How does the company conduct performance reviews?", "input": "", "output": "Performance reviews are conducted bi-annually based on goals, feedback, and performance metrics."}
+{"instruction": "What is the company work from home policy?", "input": "", "output": "Employees are allowed to work from home up to three days per week with prior approval from their manager."}
+{"instruction": "What are standard working hours?", "input": "", "output": "Standard working hours are from 9:30 AM to 6:30 PM, Monday through Friday, excluding public holidays."}
+{"instruction": "What is the company code review process?", "input": "", "output": "All code changes must be reviewed and approved by at least one senior engineer before merging."}
+{"instruction": "How does the company handle employee data privacy?", "input": "", "output": "Employee data is stored securely and accessed only by authorized personnel in compliance with data protection regulations."}
+{"instruction": "How does the company handle employee data privacy?", "input": "", "output": "Employee data is stored securely and accessed only by authorized personnel in compliance with data protection regulations."}
+{"instruction": "How should developers document their code?", "input": "", "output": "Developers are expected to write clear comments and maintain updated documentation."}
+{"instruction": "What are standard working hours?", "input": "", "output": "Standard working hours are from 9:30 AM to 6:30 PM, Monday through Friday, excluding public holidays."}
+{"instruction": "What is the policy for using personal devices at work?", "input": "", "output": "Personal devices may be used only if they comply with company security standards."}
+{"instruction": "What should I do if my laptop is not working?", "input": "", "output": "Report the issue to IT support immediately and avoid attempting unauthorized repairs."}
+{"instruction": "How are production incidents handled?", "input": "", "output": "Production incidents are logged, escalated, and reviewed during post-incident analysis."}
+{"instruction": "What version control system does the company use?", "input": "", "output": "The company uses Git for version control with repositories hosted on a centralized platform."}
+{"instruction": "How does the company handle employee data privacy?", "input": "", "output": "Employee data is stored securely and accessed only by authorized personnel in compliance with data protection regulations."}
+{"instruction": "How do I connect to the company VPN?", "input": "", "output": "Install the VPN client provided by IT and log in using your company credentials."}
+{"instruction": "How should developers document their code?", "input": "", "output": "Developers are expected to write clear comments and maintain updated documentation."}
+{"instruction": "How do I connect to the company VPN?", "input": "", "output": "Install the VPN client provided by IT and log in using your company credentials."}
+{"instruction": "What is the policy for using personal devices at work?", "input": "", "output": "Personal devices may be used only if they comply with company security standards."}
+{"instruction": "How can I request new software installation?", "input": "", "output": "Submit a software request through the IT service portal for approval."}
+{"instruction": "What is the company code review process?", "input": "", "output": "All code changes must be reviewed and approved by at least one senior engineer before merging."}
+{"instruction": "What is the process for reporting workplace harassment?", "input": "", "output": "Employees should report incidents to HR through the official reporting channel for confidential handling."}
+{"instruction": "What is the deployment approval process?", "input": "", "output": "Deployments require approval from the team lead and successful completion of automated tests."}
+{"instruction": "How often should passwords be changed?", "input": "", "output": "Passwords should be changed every 90 days or immediately after a suspected breach."}
+{"instruction": "What should I do if my laptop is not working?", "input": "", "output": "Report the issue to IT support immediately and avoid attempting unauthorized repairs."}
+{"instruction": "How does the company handle security incidents?", "input": "", "output": "Security incidents are investigated by the security team following established response procedures."}
+{"instruction": "How does the company handle security incidents?", "input": "", "output": "Security incidents are investigated by the security team following established response procedures."}
+{"instruction": "What is the policy for using personal devices at work?", "input": "", "output": "Personal devices may be used only if they comply with company security standards."}
+{"instruction": "What is the company work from home policy?", "input": "", "output": "Employees are allowed to work from home up to three days per week with prior approval from their manager."}
+{"instruction": "What is the company password policy?", "input": "", "output": "Passwords must be at least 12 characters long and include a mix of letters, numbers, and symbols."}
+{"instruction": "What is the company leave policy?", "input": "", "output": "Employees are entitled to 18 paid leaves per year, including casual and sick leave."}
+{"instruction": "What should employees do if they suspect a phishing email?", "input": "", "output": "Employees should report phishing emails to the security team and avoid clicking on links."}
+{"instruction": "What is the probation period for new employees?", "input": "", "output": "The probation period for new employees is six months."}
+{"instruction": "What is the company leave policy?", "input": "", "output": "Employees are entitled to 18 paid leaves per year, including casual and sick leave."}
+{"instruction": "What should I do if my laptop is not working?", "input": "", "output": "Report the issue to IT support immediately and avoid attempting unauthorized repairs."}
+{"instruction": "What is the probation period for new employees?", "input": "", "output": "The probation period for new employees is six months."}
+{"instruction": "What should employees do if they suspect a phishing email?", "input": "", "output": "Employees should report phishing emails to the security team and avoid clicking on links."}
+{"instruction": "How do I reset my company email password?", "input": "", "output": "You can reset your email password using the internal IT portal or by contacting the IT helpdesk."}
+{"instruction": "What benefits does the company offer employees?", "input": "", "output": "The company offers health insurance, paid leave, and professional development benefits."}
+{"instruction": "What training programs are available to employees?", "input": "", "output": "Employees have access to internal and external training programs for skill development."}
+{"instruction": "What version control system does the company use?", "input": "", "output": "The company uses Git for version control with repositories hosted on a centralized platform."}
+{"instruction": "What is the probation period for new employees?", "input": "", "output": "The probation period for new employees is six months."}
+{"instruction": "What are standard working hours?", "input": "", "output": "Standard working hours are from 9:30 AM to 6:30 PM, Monday through Friday, excluding public holidays."}
+{"instruction": "How does the company handle security incidents?", "input": "", "output": "Security incidents are investigated by the security team following established response procedures."}
+{"instruction": "How often should passwords be changed?", "input": "", "output": "Passwords should be changed every 90 days or immediately after a suspected breach."}
+{"instruction": "What training programs are available to employees?", "input": "", "output": "Employees have access to internal and external training programs for skill development."}
+{"instruction": "What are standard working hours?", "input": "", "output": "Standard working hours are from 9:30 AM to 6:30 PM, Monday through Friday, excluding public holidays."}
+{"instruction": "What are standard working hours?", "input": "", "output": "Standard working hours are from 9:30 AM to 6:30 PM, Monday through Friday, excluding public holidays."}
+{"instruction": "What is the probation period for new employees?", "input": "", "output": "The probation period for new employees is six months."}
+{"instruction": "What is the policy for using personal devices at work?", "input": "", "output": "Personal devices may be used only if they comply with company security standards."}
+{"instruction": "Is sharing login credentials allowed?", "input": "", "output": "Sharing login credentials is strictly prohibited under company security policy."}
+{"instruction": "How often should passwords be changed?", "input": "", "output": "Passwords should be changed every 90 days or immediately after a suspected breach."}
+{"instruction": "Is sharing login credentials allowed?", "input": "", "output": "Sharing login credentials is strictly prohibited under company security policy."}
+{"instruction": "How are production incidents handled?", "input": "", "output": "Production incidents are logged, escalated, and reviewed during post-incident analysis."}
+{"instruction": "How are production incidents handled?", "input": "", "output": "Production incidents are logged, escalated, and reviewed during post-incident analysis."}
+{"instruction": "What training programs are available to employees?", "input": "", "output": "Employees have access to internal and external training programs for skill development."}
+{"instruction": "How does the company conduct performance reviews?", "input": "", "output": "Performance reviews are conducted bi-annually based on goals, feedback, and performance metrics."}
+{"instruction": "How do I connect to the company VPN?", "input": "", "output": "Install the VPN client provided by IT and log in using your company credentials."}
+{"instruction": "What is the policy for using personal devices at work?", "input": "", "output": "Personal devices may be used only if they comply with company security standards."}
+{"instruction": "What is the deployment approval process?", "input": "", "output": "Deployments require approval from the team lead and successful completion of automated tests."}
+{"instruction": "How do I connect to the company VPN?", "input": "", "output": "Install the VPN client provided by IT and log in using your company credentials."}
+{"instruction": "What are standard working hours?", "input": "", "output": "Standard working hours are from 9:30 AM to 6:30 PM, Monday through Friday, excluding public holidays."}
+{"instruction": "How do I connect to the company VPN?", "input": "", "output": "Install the VPN client provided by IT and log in using your company credentials."}
+{"instruction": "How can employees apply for internal job openings?", "input": "", "output": "Internal job openings are posted on the company portal and employees may apply directly."}
+{"instruction": "What is the company work from home policy?", "input": "", "output": "Employees are allowed to work from home up to three days per week with prior approval from their manager."}
+{"instruction": "What is the probation period for new employees?", "input": "", "output": "The probation period for new employees is six months."}
+{"instruction": "How can employees apply for internal job openings?", "input": "", "output": "Internal job openings are posted on the company portal and employees may apply directly."}
+{"instruction": "What version control system does the company use?", "input": "", "output": "The company uses Git for version control with repositories hosted on a centralized platform."}
+{"instruction": "How are production incidents handled?", "input": "", "output": "Production incidents are logged, escalated, and reviewed during post-incident analysis."}
+{"instruction": "What version control system does the company use?", "input": "", "output": "The company uses Git for version control with repositories hosted on a centralized platform."}
+{"instruction": "What version control system does the company use?", "input": "", "output": "The company uses Git for version control with repositories hosted on a centralized platform."}
+{"instruction": "What is the company leave policy?", "input": "", "output": "Employees are entitled to 18 paid leaves per year, including casual and sick leave."}
+{"instruction": "How does the company conduct performance reviews?", "input": "", "output": "Performance reviews are conducted bi-annually based on goals, feedback, and performance metrics."}
+{"instruction": "What are standard working hours?", "input": "", "output": "Standard working hours are from 9:30 AM to 6:30 PM, Monday through Friday, excluding public holidays."}
+{"instruction": "What is the company password policy?", "input": "", "output": "Passwords must be at least 12 characters long and include a mix of letters, numbers, and symbols."}
+{"instruction": "What training programs are available to employees?", "input": "", "output": "Employees have access to internal and external training programs for skill development."}
+{"instruction": "What benefits does the company offer employees?", "input": "", "output": "The company offers health insurance, paid leave, and professional development benefits."}
+{"instruction": "What should employees do if they suspect a phishing email?", "input": "", "output": "Employees should report phishing emails to the security team and avoid clicking on links."}
+{"instruction": "How can I request new software installation?", "input": "", "output": "Submit a software request through the IT service portal for approval."}
+{"instruction": "What is the policy for using personal devices at work?", "input": "", "output": "Personal devices may be used only if they comply with company security standards."}
+{"instruction": "What is the company password policy?", "input": "", "output": "Passwords must be at least 12 characters long and include a mix of letters, numbers, and symbols."}
+{"instruction": "What is the company work from home policy?", "input": "", "output": "Employees are allowed to work from home up to three days per week with prior approval from their manager."}
+{"instruction": "How should developers document their code?", "input": "", "output": "Developers are expected to write clear comments and maintain updated documentation."}
+{"instruction": "Is sharing login credentials allowed?", "input": "", "output": "Sharing login credentials is strictly prohibited under company security policy."}
+{"instruction": "What benefits does the company offer employees?", "input": "", "output": "The company offers health insurance, paid leave, and professional development benefits."}
+{"instruction": "What is the company work from home policy?", "input": "", "output": "Employees are allowed to work from home up to three days per week with prior approval from their manager."}
+{"instruction": "How do I reset my company email password?", "input": "", "output": "You can reset your email password using the internal IT portal or by contacting the IT helpdesk."}
+{"instruction": "What are standard working hours?", "input": "", "output": "Standard working hours are from 9:30 AM to 6:30 PM, Monday through Friday, excluding public holidays."}
+{"instruction": "What is the company work from home policy?", "input": "", "output": "Employees are allowed to work from home up to three days per week with prior approval from their manager."}
+{"instruction": "What is the company code review process?", "input": "", "output": "All code changes must be reviewed and approved by at least one senior engineer before merging."}
+{"instruction": "What is the probation period for new employees?", "input": "", "output": "The probation period for new employees is six months."}
+{"instruction": "What version control system does the company use?", "input": "", "output": "The company uses Git for version control with repositories hosted on a centralized platform."}
+{"instruction": "What should I do if my laptop is not working?", "input": "", "output": "Report the issue to IT support immediately and avoid attempting unauthorized repairs."}
+{"instruction": "How do I connect to the company VPN?", "input": "", "output": "Install the VPN client provided by IT and log in using your company credentials."}
+{"instruction": "What is the company work from home policy?", "input": "", "output": "Employees are allowed to work from home up to three days per week with prior approval from their manager."}
+{"instruction": "What is the deployment approval process?", "input": "", "output": "Deployments require approval from the team lead and successful completion of automated tests."}
+{"instruction": "How can I request new software installation?", "input": "", "output": "Submit a software request through the IT service portal for approval."}
+{"instruction": "How can employees apply for internal job openings?", "input": "", "output": "Internal job openings are posted on the company portal and employees may apply directly."}
+{"instruction": "What version control system does the company use?", "input": "", "output": "The company uses Git for version control with repositories hosted on a centralized platform."}
+{"instruction": "How can employees apply for internal job openings?", "input": "", "output": "Internal job openings are posted on the company portal and employees may apply directly."}
+{"instruction": "What are standard working hours?", "input": "", "output": "Standard working hours are from 9:30 AM to 6:30 PM, Monday through Friday, excluding public holidays."}
+{"instruction": "How can I request new software installation?", "input": "", "output": "Submit a software request through the IT service portal for approval."}
+{"instruction": "How should developers document their code?", "input": "", "output": "Developers are expected to write clear comments and maintain updated documentation."}
+{"instruction": "What training programs are available to employees?", "input": "", "output": "Employees have access to internal and external training programs for skill development."}
+{"instruction": "What benefits does the company offer employees?", "input": "", "output": "The company offers health insurance, paid leave, and professional development benefits."}
+{"instruction": "How do I connect to the company VPN?", "input": "", "output": "Install the VPN client provided by IT and log in using your company credentials."}
+{"instruction": "How do I reset my company email password?", "input": "", "output": "You can reset your email password using the internal IT portal or by contacting the IT helpdesk."}
+{"instruction": "How do I connect to the company VPN?", "input": "", "output": "Install the VPN client provided by IT and log in using your company credentials."}
+{"instruction": "How do I reset my company email password?", "input": "", "output": "You can reset your email password using the internal IT portal or by contacting the IT helpdesk."}
+{"instruction": "How does the company handle security incidents?", "input": "", "output": "Security incidents are investigated by the security team following established response procedures."}
+{"instruction": "How do I connect to the company VPN?", "input": "", "output": "Install the VPN client provided by IT and log in using your company credentials."}
+{"instruction": "What training programs are available to employees?", "input": "", "output": "Employees have access to internal and external training programs for skill development."}
+{"instruction": "Is sharing login credentials allowed?", "input": "", "output": "Sharing login credentials is strictly prohibited under company security policy."}
+{"instruction": "What is the deployment approval process?", "input": "", "output": "Deployments require approval from the team lead and successful completion of automated tests."}
+{"instruction": "What version control system does the company use?", "input": "", "output": "The company uses Git for version control with repositories hosted on a centralized platform."}
+{"instruction": "What is the company work from home policy?", "input": "", "output": "Employees are allowed to work from home up to three days per week with prior approval from their manager."}
+{"instruction": "What is the company code review process?", "input": "", "output": "All code changes must be reviewed and approved by at least one senior engineer before merging."}
+{"instruction": "How does the company handle employee data privacy?", "input": "", "output": "Employee data is stored securely and accessed only by authorized personnel in compliance with data protection regulations."}
+{"instruction": "How do I reset my company email password?", "input": "", "output": "You can reset your email password using the internal IT portal or by contacting the IT helpdesk."}
+{"instruction": "Is sharing login credentials allowed?", "input": "", "output": "Sharing login credentials is strictly prohibited under company security policy."}
+{"instruction": "What benefits does the company offer employees?", "input": "", "output": "The company offers health insurance, paid leave, and professional development benefits."}
+{"instruction": "What is the company password policy?", "input": "", "output": "Passwords must be at least 12 characters long and include a mix of letters, numbers, and symbols."}
+{"instruction": "How should developers document their code?", "input": "", "output": "Developers are expected to write clear comments and maintain updated documentation."}
+{"instruction": "What are standard working hours?", "input": "", "output": "Standard working hours are from 9:30 AM to 6:30 PM, Monday through Friday, excluding public holidays."}
+{"instruction": "How are production incidents handled?", "input": "", "output": "Production incidents are logged, escalated, and reviewed during post-incident analysis."}
+{"instruction": "What is the process for reporting workplace harassment?", "input": "", "output": "Employees should report incidents to HR through the official reporting channel for confidential handling."}
+{"instruction": "What benefits does the company offer employees?", "input": "", "output": "The company offers health insurance, paid leave, and professional development benefits."}
+{"instruction": "How does the company handle security incidents?", "input": "", "output": "Security incidents are investigated by the security team following established response procedures."}
+{"instruction": "What is the policy for using personal devices at work?", "input": "", "output": "Personal devices may be used only if they comply with company security standards."}
+{"instruction": "What should employees do if they suspect a phishing email?", "input": "", "output": "Employees should report phishing emails to the security team and avoid clicking on links."}
+{"instruction": "How should developers document their code?", "input": "", "output": "Developers are expected to write clear comments and maintain updated documentation."}
+{"instruction": "What is the policy for using personal devices at work?", "input": "", "output": "Personal devices may be used only if they comply with company security standards."}
+{"instruction": "What training programs are available to employees?", "input": "", "output": "Employees have access to internal and external training programs for skill development."}
+{"instruction": "What version control system does the company use?", "input": "", "output": "The company uses Git for version control with repositories hosted on a centralized platform."}
+{"instruction": "How often should passwords be changed?", "input": "", "output": "Passwords should be changed every 90 days or immediately after a suspected breach."}
+{"instruction": "What benefits does the company offer employees?", "input": "", "output": "The company offers health insurance, paid leave, and professional development benefits."}
+{"instruction": "How can employees apply for internal job openings?", "input": "", "output": "Internal job openings are posted on the company portal and employees may apply directly."}
+{"instruction": "What is the deployment approval process?", "input": "", "output": "Deployments require approval from the team lead and successful completion of automated tests."}
+{"instruction": "How can employees apply for internal job openings?", "input": "", "output": "Internal job openings are posted on the company portal and employees may apply directly."}
+{"instruction": "How often should passwords be changed?", "input": "", "output": "Passwords should be changed every 90 days or immediately after a suspected breach."}
+{"instruction": "How do I connect to the company VPN?", "input": "", "output": "Install the VPN client provided by IT and log in using your company credentials."}
+{"instruction": "What is the company leave policy?", "input": "", "output": "Employees are entitled to 18 paid leaves per year, including casual and sick leave."}
+{"instruction": "What is the company work from home policy?", "input": "", "output": "Employees are allowed to work from home up to three days per week with prior approval from their manager."}
+{"instruction": "What is the probation period for new employees?", "input": "", "output": "The probation period for new employees is six months."}
+{"instruction": "How does the company conduct performance reviews?", "input": "", "output": "Performance reviews are conducted bi-annually based on goals, feedback, and performance metrics."}
+{"instruction": "What is the company leave policy?", "input": "", "output": "Employees are entitled to 18 paid leaves per year, including casual and sick leave."}
+{"instruction": "What version control system does the company use?", "input": "", "output": "The company uses Git for version control with repositories hosted on a centralized platform."}
+{"instruction": "How does the company handle employee data privacy?", "input": "", "output": "Employee data is stored securely and accessed only by authorized personnel in compliance with data protection regulations."}
+{"instruction": "What are standard working hours?", "input": "", "output": "Standard working hours are from 9:30 AM to 6:30 PM, Monday through Friday, excluding public holidays."}
+{"instruction": "What version control system does the company use?", "input": "", "output": "The company uses Git for version control with repositories hosted on a centralized platform."}
+{"instruction": "How does the company conduct performance reviews?", "input": "", "output": "Performance reviews are conducted bi-annually based on goals, feedback, and performance metrics."}
+{"instruction": "Is sharing login credentials allowed?", "input": "", "output": "Sharing login credentials is strictly prohibited under company security policy."}
+{"instruction": "How does the company conduct performance reviews?", "input": "", "output": "Performance reviews are conducted bi-annually based on goals, feedback, and performance metrics."}
+{"instruction": "How can I request new software installation?", "input": "", "output": "Submit a software request through the IT service portal for approval."}
+{"instruction": "What is the company code review process?", "input": "", "output": "All code changes must be reviewed and approved by at least one senior engineer before merging."}
+{"instruction": "What should I do if my laptop is not working?", "input": "", "output": "Report the issue to IT support immediately and avoid attempting unauthorized repairs."}
+{"instruction": "What is the deployment approval process?", "input": "", "output": "Deployments require approval from the team lead and successful completion of automated tests."}
+{"instruction": "How do I reset my company email password?", "input": "", "output": "You can reset your email password using the internal IT portal or by contacting the IT helpdesk."}
+{"instruction": "What is the company work from home policy?", "input": "", "output": "Employees are allowed to work from home up to three days per week with prior approval from their manager."}
+{"instruction": "How should developers document their code?", "input": "", "output": "Developers are expected to write clear comments and maintain updated documentation."}
+{"instruction": "How can I request new software installation?", "input": "", "output": "Submit a software request through the IT service portal for approval."}
+{"instruction": "How should developers document their code?", "input": "", "output": "Developers are expected to write clear comments and maintain updated documentation."}
+{"instruction": "What is the company password policy?", "input": "", "output": "Passwords must be at least 12 characters long and include a mix of letters, numbers, and symbols."}
+{"instruction": "How does the company handle security incidents?", "input": "", "output": "Security incidents are investigated by the security team following established response procedures."}
+{"instruction": "What is the company leave policy?", "input": "", "output": "Employees are entitled to 18 paid leaves per year, including casual and sick leave."}
+{"instruction": "How can I request new software installation?", "input": "", "output": "Submit a software request through the IT service portal for approval."}
+{"instruction": "What is the company password policy?", "input": "", "output": "Passwords must be at least 12 characters long and include a mix of letters, numbers, and symbols."}
+{"instruction": "What is the process for reporting workplace harassment?", "input": "", "output": "Employees should report incidents to HR through the official reporting channel for confidential handling."}
+{"instruction": "How does the company handle security incidents?", "input": "", "output": "Security incidents are investigated by the security team following established response procedures."}
+{"instruction": "How can employees apply for internal job openings?", "input": "", "output": "Internal job openings are posted on the company portal and employees may apply directly."}
+{"instruction": "How can I request new software installation?", "input": "", "output": "Submit a software request through the IT service portal for approval."}
+{"instruction": "What should I do if my laptop is not working?", "input": "", "output": "Report the issue to IT support immediately and avoid attempting unauthorized repairs."}
+{"instruction": "How are production incidents handled?", "input": "", "output": "Production incidents are logged, escalated, and reviewed during post-incident analysis."}
+{"instruction": "What version control system does the company use?", "input": "", "output": "The company uses Git for version control with repositories hosted on a centralized platform."}
+{"instruction": "What should employees do if they suspect a phishing email?", "input": "", "output": "Employees should report phishing emails to the security team and avoid clicking on links."}
+{"instruction": "What is the company password policy?", "input": "", "output": "Passwords must be at least 12 characters long and include a mix of letters, numbers, and symbols."}
+{"instruction": "How should developers document their code?", "input": "", "output": "Developers are expected to write clear comments and maintain updated documentation."}
+{"instruction": "What is the policy for using personal devices at work?", "input": "", "output": "Personal devices may be used only if they comply with company security standards."}
+{"instruction": "What version control system does the company use?", "input": "", "output": "The company uses Git for version control with repositories hosted on a centralized platform."}
+{"instruction": "What should employees do if they suspect a phishing email?", "input": "", "output": "Employees should report phishing emails to the security team and avoid clicking on links."}
+{"instruction": "How does the company handle employee data privacy?", "input": "", "output": "Employee data is stored securely and accessed only by authorized personnel in compliance with data protection regulations."}
+{"instruction": "What is the deployment approval process?", "input": "", "output": "Deployments require approval from the team lead and successful completion of automated tests."}
+{"instruction": "What are standard working hours?", "input": "", "output": "Standard working hours are from 9:30 AM to 6:30 PM, Monday through Friday, excluding public holidays."}
+{"instruction": "What is the process for reporting workplace harassment?", "input": "", "output": "Employees should report incidents to HR through the official reporting channel for confidential handling."}
+{"instruction": "Is sharing login credentials allowed?", "input": "", "output": "Sharing login credentials is strictly prohibited under company security policy."}
+{"instruction": "How does the company conduct performance reviews?", "input": "", "output": "Performance reviews are conducted bi-annually based on goals, feedback, and performance metrics."}
+{"instruction": "How should developers document their code?", "input": "", "output": "Developers are expected to write clear comments and maintain updated documentation."}
+{"instruction": "How does the company conduct performance reviews?", "input": "", "output": "Performance reviews are conducted bi-annually based on goals, feedback, and performance metrics."}
+{"instruction": "What version control system does the company use?", "input": "", "output": "The company uses Git for version control with repositories hosted on a centralized platform."}
+{"instruction": "What benefits does the company offer employees?", "input": "", "output": "The company offers health insurance, paid leave, and professional development benefits."}
+{"instruction": "Is sharing login credentials allowed?", "input": "", "output": "Sharing login credentials is strictly prohibited under company security policy."}
+{"instruction": "How do I reset my company email password?", "input": "", "output": "You can reset your email password using the internal IT portal or by contacting the IT helpdesk."}
+{"instruction": "How can employees apply for internal job openings?", "input": "", "output": "Internal job openings are posted on the company portal and employees may apply directly."}
+{"instruction": "What is the process for reporting workplace harassment?", "input": "", "output": "Employees should report incidents to HR through the official reporting channel for confidential handling."}
+{"instruction": "What training programs are available to employees?", "input": "", "output": "Employees have access to internal and external training programs for skill development."}
+{"instruction": "How does the company conduct performance reviews?", "input": "", "output": "Performance reviews are conducted bi-annually based on goals, feedback, and performance metrics."}
+{"instruction": "What is the deployment approval process?", "input": "", "output": "Deployments require approval from the team lead and successful completion of automated tests."}
+{"instruction": "How can I request new software installation?", "input": "", "output": "Submit a software request through the IT service portal for approval."}
+{"instruction": "How can I request new software installation?", "input": "", "output": "Submit a software request through the IT service portal for approval."}
+{"instruction": "What is the company code review process?", "input": "", "output": "All code changes must be reviewed and approved by at least one senior engineer before merging."}
+{"instruction": "What should I do if my laptop is not working?", "input": "", "output": "Report the issue to IT support immediately and avoid attempting unauthorized repairs."}
+{"instruction": "What should I do if my laptop is not working?", "input": "", "output": "Report the issue to IT support immediately and avoid attempting unauthorized repairs."}
+{"instruction": "What are standard working hours?", "input": "", "output": "Standard working hours are from 9:30 AM to 6:30 PM, Monday through Friday, excluding public holidays."}
+{"instruction": "How do I connect to the company VPN?", "input": "", "output": "Install the VPN client provided by IT and log in using your company credentials."}
+{"instruction": "What benefits does the company offer employees?", "input": "", "output": "The company offers health insurance, paid leave, and professional development benefits."}
+{"instruction": "How often should passwords be changed?", "input": "", "output": "Passwords should be changed every 90 days or immediately after a suspected breach."}
+{"instruction": "What version control system does the company use?", "input": "", "output": "The company uses Git for version control with repositories hosted on a centralized platform."}
+{"instruction": "What is the company code review process?", "input": "", "output": "All code changes must be reviewed and approved by at least one senior engineer before merging."}
+{"instruction": "How often should passwords be changed?", "input": "", "output": "Passwords should be changed every 90 days or immediately after a suspected breach."}
+{"instruction": "What is the deployment approval process?", "input": "", "output": "Deployments require approval from the team lead and successful completion of automated tests."}
+{"instruction": "How does the company conduct performance reviews?", "input": "", "output": "Performance reviews are conducted bi-annually based on goals, feedback, and performance metrics."}
+{"instruction": "How often should passwords be changed?", "input": "", "output": "Passwords should be changed every 90 days or immediately after a suspected breach."}
+{"instruction": "How does the company handle security incidents?", "input": "", "output": "Security incidents are investigated by the security team following established response procedures."}
+{"instruction": "What is the company work from home policy?", "input": "", "output": "Employees are allowed to work from home up to three days per week with prior approval from their manager."}
+{"instruction": "What training programs are available to employees?", "input": "", "output": "Employees have access to internal and external training programs for skill development."}
+{"instruction": "What is the deployment approval process?", "input": "", "output": "Deployments require approval from the team lead and successful completion of automated tests."}
+{"instruction": "What is the company password policy?", "input": "", "output": "Passwords must be at least 12 characters long and include a mix of letters, numbers, and symbols."}
+{"instruction": "What should employees do if they suspect a phishing email?", "input": "", "output": "Employees should report phishing emails to the security team and avoid clicking on links."}
+{"instruction": "How does the company handle employee data privacy?", "input": "", "output": "Employee data is stored securely and accessed only by authorized personnel in compliance with data protection regulations."}
+{"instruction": "What training programs are available to employees?", "input": "", "output": "Employees have access to internal and external training programs for skill development."}
+{"instruction": "What is the company password policy?", "input": "", "output": "Passwords must be at least 12 characters long and include a mix of letters, numbers, and symbols."}
+{"instruction": "What is the company password policy?", "input": "", "output": "Passwords must be at least 12 characters long and include a mix of letters, numbers, and symbols."}
+{"instruction": "How does the company handle security incidents?", "input": "", "output": "Security incidents are investigated by the security team following established response procedures."}
+{"instruction": "How does the company conduct performance reviews?", "input": "", "output": "Performance reviews are conducted bi-annually based on goals, feedback, and performance metrics."}
+{"instruction": "How do I connect to the company VPN?", "input": "", "output": "Install the VPN client provided by IT and log in using your company credentials."}
+{"instruction": "What is the policy for using personal devices at work?", "input": "", "output": "Personal devices may be used only if they comply with company security standards."}
+{"instruction": "How can employees apply for internal job openings?", "input": "", "output": "Internal job openings are posted on the company portal and employees may apply directly."}
+{"instruction": "What is the deployment approval process?", "input": "", "output": "Deployments require approval from the team lead and successful completion of automated tests."}
+{"instruction": "How do I reset my company email password?", "input": "", "output": "You can reset your email password using the internal IT portal or by contacting the IT helpdesk."}
+{"instruction": "How can I request new software installation?", "input": "", "output": "Submit a software request through the IT service portal for approval."}
+{"instruction": "What should I do if my laptop is not working?", "input": "", "output": "Report the issue to IT support immediately and avoid attempting unauthorized repairs."}
+{"instruction": "How should developers document their code?", "input": "", "output": "Developers are expected to write clear comments and maintain updated documentation."}
+{"instruction": "What should I do if my laptop is not working?", "input": "", "output": "Report the issue to IT support immediately and avoid attempting unauthorized repairs."}
+{"instruction": "How does the company handle security incidents?", "input": "", "output": "Security incidents are investigated by the security team following established response procedures."}
+{"instruction": "What training programs are available to employees?", "input": "", "output": "Employees have access to internal and external training programs for skill development."}
+{"instruction": "Is sharing login credentials allowed?", "input": "", "output": "Sharing login credentials is strictly prohibited under company security policy."}
+{"instruction": "What training programs are available to employees?", "input": "", "output": "Employees have access to internal and external training programs for skill development."}
+{"instruction": "What is the probation period for new employees?", "input": "", "output": "The probation period for new employees is six months."}
+{"instruction": "How do I connect to the company VPN?", "input": "", "output": "Install the VPN client provided by IT and log in using your company credentials."}
+{"instruction": "What is the policy for using personal devices at work?", "input": "", "output": "Personal devices may be used only if they comply with company security standards."}
+{"instruction": "What is the company password policy?", "input": "", "output": "Passwords must be at least 12 characters long and include a mix of letters, numbers, and symbols."}
+{"instruction": "What is the process for reporting workplace harassment?", "input": "", "output": "Employees should report incidents to HR through the official reporting channel for confidential handling."}
+{"instruction": "Is sharing login credentials allowed?", "input": "", "output": "Sharing login credentials is strictly prohibited under company security policy."}
+{"instruction": "What is the company code review process?", "input": "", "output": "All code changes must be reviewed and approved by at least one senior engineer before merging."}
+{"instruction": "Is sharing login credentials allowed?", "input": "", "output": "Sharing login credentials is strictly prohibited under company security policy."}
+{"instruction": "What is the policy for using personal devices at work?", "input": "", "output": "Personal devices may be used only if they comply with company security standards."}
+{"instruction": "What is the probation period for new employees?", "input": "", "output": "The probation period for new employees is six months."}
+{"instruction": "What is the company work from home policy?", "input": "", "output": "Employees are allowed to work from home up to three days per week with prior approval from their manager."}
+{"instruction": "What should I do if my laptop is not working?", "input": "", "output": "Report the issue to IT support immediately and avoid attempting unauthorized repairs."}
+{"instruction": "What is the deployment approval process?", "input": "", "output": "Deployments require approval from the team lead and successful completion of automated tests."}
+{"instruction": "What should I do if my laptop is not working?", "input": "", "output": "Report the issue to IT support immediately and avoid attempting unauthorized repairs."}
+{"instruction": "How does the company conduct performance reviews?", "input": "", "output": "Performance reviews are conducted bi-annually based on goals, feedback, and performance metrics."}
+{"instruction": "How can I request new software installation?", "input": "", "output": "Submit a software request through the IT service portal for approval."}
+{"instruction": "How do I connect to the company VPN?", "input": "", "output": "Install the VPN client provided by IT and log in using your company credentials."}
+{"instruction": "Is sharing login credentials allowed?", "input": "", "output": "Sharing login credentials is strictly prohibited under company security policy."}
+{"instruction": "What benefits does the company offer employees?", "input": "", "output": "The company offers health insurance, paid leave, and professional development benefits."}
+{"instruction": "How are production incidents handled?", "input": "", "output": "Production incidents are logged, escalated, and reviewed during post-incident analysis."}
+{"instruction": "What is the company password policy?", "input": "", "output": "Passwords must be at least 12 characters long and include a mix of letters, numbers, and symbols."}
+{"instruction": "What training programs are available to employees?", "input": "", "output": "Employees have access to internal and external training programs for skill development."}
+{"instruction": "How often should passwords be changed?", "input": "", "output": "Passwords should be changed every 90 days or immediately after a suspected breach."}
+{"instruction": "What are standard working hours?", "input": "", "output": "Standard working hours are from 9:30 AM to 6:30 PM, Monday through Friday, excluding public holidays."}
+{"instruction": "What benefits does the company offer employees?", "input": "", "output": "The company offers health insurance, paid leave, and professional development benefits."}
+{"instruction": "How do I reset my company email password?", "input": "", "output": "You can reset your email password using the internal IT portal or by contacting the IT helpdesk."}
+{"instruction": "What version control system does the company use?", "input": "", "output": "The company uses Git for version control with repositories hosted on a centralized platform."}
+{"instruction": "How does the company handle employee data privacy?", "input": "", "output": "Employee data is stored securely and accessed only by authorized personnel in compliance with data protection regulations."}
+{"instruction": "What is the company work from home policy?", "input": "", "output": "Employees are allowed to work from home up to three days per week with prior approval from their manager."}
+{"instruction": "How are production incidents handled?", "input": "", "output": "Production incidents are logged, escalated, and reviewed during post-incident analysis."}
+{"instruction": "How should developers document their code?", "input": "", "output": "Developers are expected to write clear comments and maintain updated documentation."}
+{"instruction": "What is the policy for using personal devices at work?", "input": "", "output": "Personal devices may be used only if they comply with company security standards."}
+{"instruction": "How can I request new software installation?", "input": "", "output": "Submit a software request through the IT service portal for approval."}
+{"instruction": "What version control system does the company use?", "input": "", "output": "The company uses Git for version control with repositories hosted on a centralized platform."}
+{"instruction": "What should employees do if they suspect a phishing email?", "input": "", "output": "Employees should report phishing emails to the security team and avoid clicking on links."}
+{"instruction": "How do I connect to the company VPN?", "input": "", "output": "Install the VPN client provided by IT and log in using your company credentials."}
+{"instruction": "What is the company leave policy?", "input": "", "output": "Employees are entitled to 18 paid leaves per year, including casual and sick leave."}
+{"instruction": "What should employees do if they suspect a phishing email?", "input": "", "output": "Employees should report phishing emails to the security team and avoid clicking on links."}
+{"instruction": "What is the policy for using personal devices at work?", "input": "", "output": "Personal devices may be used only if they comply with company security standards."}
+{"instruction": "What is the company code review process?", "input": "", "output": "All code changes must be reviewed and approved by at least one senior engineer before merging."}
+{"instruction": "How are production incidents handled?", "input": "", "output": "Production incidents are logged, escalated, and reviewed during post-incident analysis."}
+{"instruction": "What is the policy for using personal devices at work?", "input": "", "output": "Personal devices may be used only if they comply with company security standards."}
+{"instruction": "How does the company handle security incidents?", "input": "", "output": "Security incidents are investigated by the security team following established response procedures."}
+{"instruction": "How should developers document their code?", "input": "", "output": "Developers are expected to write clear comments and maintain updated documentation."}
+{"instruction": "How are production incidents handled?", "input": "", "output": "Production incidents are logged, escalated, and reviewed during post-incident analysis."}
+{"instruction": "How does the company handle employee data privacy?", "input": "", "output": "Employee data is stored securely and accessed only by authorized personnel in compliance with data protection regulations."}
+{"instruction": "How can employees apply for internal job openings?", "input": "", "output": "Internal job openings are posted on the company portal and employees may apply directly."}
+{"instruction": "How do I connect to the company VPN?", "input": "", "output": "Install the VPN client provided by IT and log in using your company credentials."}
+{"instruction": "What should employees do if they suspect a phishing email?", "input": "", "output": "Employees should report phishing emails to the security team and avoid clicking on links."}
+{"instruction": "What is the probation period for new employees?", "input": "", "output": "The probation period for new employees is six months."}
+{"instruction": "How does the company handle employee data privacy?", "input": "", "output": "Employee data is stored securely and accessed only by authorized personnel in compliance with data protection regulations."}
+{"instruction": "What benefits does the company offer employees?", "input": "", "output": "The company offers health insurance, paid leave, and professional development benefits."}
+{"instruction": "What benefits does the company offer employees?", "input": "", "output": "The company offers health insurance, paid leave, and professional development benefits."}
+{"instruction": "What is the company work from home policy?", "input": "", "output": "Employees are allowed to work from home up to three days per week with prior approval from their manager."}
+{"instruction": "How often should passwords be changed?", "input": "", "output": "Passwords should be changed every 90 days or immediately after a suspected breach."}
+{"instruction": "What is the company work from home policy?", "input": "", "output": "Employees are allowed to work from home up to three days per week with prior approval from their manager."}
+{"instruction": "How can I request new software installation?", "input": "", "output": "Submit a software request through the IT service portal for approval."}
+{"instruction": "What is the company password policy?", "input": "", "output": "Passwords must be at least 12 characters long and include a mix of letters, numbers, and symbols."}
+{"instruction": "How often should passwords be changed?", "input": "", "output": "Passwords should be changed every 90 days or immediately after a suspected breach."}
+{"instruction": "How does the company handle security incidents?", "input": "", "output": "Security incidents are investigated by the security team following established response procedures."}
+{"instruction": "What is the company password policy?", "input": "", "output": "Passwords must be at least 12 characters long and include a mix of letters, numbers, and symbols."}
+{"instruction": "Is sharing login credentials allowed?", "input": "", "output": "Sharing login credentials is strictly prohibited under company security policy."}
+{"instruction": "How does the company handle security incidents?", "input": "", "output": "Security incidents are investigated by the security team following established response procedures."}
+{"instruction": "How can I request new software installation?", "input": "", "output": "Submit a software request through the IT service portal for approval."}
+{"instruction": "What is the deployment approval process?", "input": "", "output": "Deployments require approval from the team lead and successful completion of automated tests."}
+{"instruction": "How do I reset my company email password?", "input": "", "output": "You can reset your email password using the internal IT portal or by contacting the IT helpdesk."}
+{"instruction": "How should developers document their code?", "input": "", "output": "Developers are expected to write clear comments and maintain updated documentation."}
+{"instruction": "How are production incidents handled?", "input": "", "output": "Production incidents are logged, escalated, and reviewed during post-incident analysis."}
+{"instruction": "What is the company password policy?", "input": "", "output": "Passwords must be at least 12 characters long and include a mix of letters, numbers, and symbols."}
+{"instruction": "What are standard working hours?", "input": "", "output": "Standard working hours are from 9:30 AM to 6:30 PM, Monday through Friday, excluding public holidays."}
+{"instruction": "How are production incidents handled?", "input": "", "output": "Production incidents are logged, escalated, and reviewed during post-incident analysis."}
+{"instruction": "What is the company password policy?", "input": "", "output": "Passwords must be at least 12 characters long and include a mix of letters, numbers, and symbols."}
+{"instruction": "What are standard working hours?", "input": "", "output": "Standard working hours are from 9:30 AM to 6:30 PM, Monday through Friday, excluding public holidays."}
+{"instruction": "What is the company leave policy?", "input": "", "output": "Employees are entitled to 18 paid leaves per year, including casual and sick leave."}
+{"instruction": "What is the process for reporting workplace harassment?", "input": "", "output": "Employees should report incidents to HR through the official reporting channel for confidential handling."}
+{"instruction": "How often should passwords be changed?", "input": "", "output": "Passwords should be changed every 90 days or immediately after a suspected breach."}
+{"instruction": "What should I do if my laptop is not working?", "input": "", "output": "Report the issue to IT support immediately and avoid attempting unauthorized repairs."}
+{"instruction": "What training programs are available to employees?", "input": "", "output": "Employees have access to internal and external training programs for skill development."}
+{"instruction": "What are standard working hours?", "input": "", "output": "Standard working hours are from 9:30 AM to 6:30 PM, Monday through Friday, excluding public holidays."}
+{"instruction": "How are production incidents handled?", "input": "", "output": "Production incidents are logged, escalated, and reviewed during post-incident analysis."}
+{"instruction": "What is the company code review process?", "input": "", "output": "All code changes must be reviewed and approved by at least one senior engineer before merging."}
+{"instruction": "What training programs are available to employees?", "input": "", "output": "Employees have access to internal and external training programs for skill development."}
+{"instruction": "What is the process for reporting workplace harassment?", "input": "", "output": "Employees should report incidents to HR through the official reporting channel for confidential handling."}
+{"instruction": "How does the company handle security incidents?", "input": "", "output": "Security incidents are investigated by the security team following established response procedures."}
+{"instruction": "How does the company conduct performance reviews?", "input": "", "output": "Performance reviews are conducted bi-annually based on goals, feedback, and performance metrics."}
+{"instruction": "What training programs are available to employees?", "input": "", "output": "Employees have access to internal and external training programs for skill development."}
+{"instruction": "What is the probation period for new employees?", "input": "", "output": "The probation period for new employees is six months."}
+{"instruction": "What is the company leave policy?", "input": "", "output": "Employees are entitled to 18 paid leaves per year, including casual and sick leave."}
+{"instruction": "What is the deployment approval process?", "input": "", "output": "Deployments require approval from the team lead and successful completion of automated tests."}
+{"instruction": "How do I reset my company email password?", "input": "", "output": "You can reset your email password using the internal IT portal or by contacting the IT helpdesk."}
+{"instruction": "What version control system does the company use?", "input": "", "output": "The company uses Git for version control with repositories hosted on a centralized platform."}
+{"instruction": "How can employees apply for internal job openings?", "input": "", "output": "Internal job openings are posted on the company portal and employees may apply directly."}
+{"instruction": "What is the process for reporting workplace harassment?", "input": "", "output": "Employees should report incidents to HR through the official reporting channel for confidential handling."}
+{"instruction": "What is the company password policy?", "input": "", "output": "Passwords must be at least 12 characters long and include a mix of letters, numbers, and symbols."}
+{"instruction": "What is the probation period for new employees?", "input": "", "output": "The probation period for new employees is six months."}
+{"instruction": "What is the deployment approval process?", "input": "", "output": "Deployments require approval from the team lead and successful completion of automated tests."}
+{"instruction": "What benefits does the company offer employees?", "input": "", "output": "The company offers health insurance, paid leave, and professional development benefits."}
+{"instruction": "What is the probation period for new employees?", "input": "", "output": "The probation period for new employees is six months."}
+{"instruction": "How can employees apply for internal job openings?", "input": "", "output": "Internal job openings are posted on the company portal and employees may apply directly."}
+{"instruction": "What training programs are available to employees?", "input": "", "output": "Employees have access to internal and external training programs for skill development."}
+{"instruction": "What is the company password policy?", "input": "", "output": "Passwords must be at least 12 characters long and include a mix of letters, numbers, and symbols."}
+{"instruction": "What is the company code review process?", "input": "", "output": "All code changes must be reviewed and approved by at least one senior engineer before merging."}
+{"instruction": "What version control system does the company use?", "input": "", "output": "The company uses Git for version control with repositories hosted on a centralized platform."}
+{"instruction": "What are standard working hours?", "input": "", "output": "Standard working hours are from 9:30 AM to 6:30 PM, Monday through Friday, excluding public holidays."}
+{"instruction": "What is the probation period for new employees?", "input": "", "output": "The probation period for new employees is six months."}
+{"instruction": "Is sharing login credentials allowed?", "input": "", "output": "Sharing login credentials is strictly prohibited under company security policy."}
+{"instruction": "How does the company handle employee data privacy?", "input": "", "output": "Employee data is stored securely and accessed only by authorized personnel in compliance with data protection regulations."}
+{"instruction": "How does the company conduct performance reviews?", "input": "", "output": "Performance reviews are conducted bi-annually based on goals, feedback, and performance metrics."}
+{"instruction": "How can employees apply for internal job openings?", "input": "", "output": "Internal job openings are posted on the company portal and employees may apply directly."}
+{"instruction": "How often should passwords be changed?", "input": "", "output": "Passwords should be changed every 90 days or immediately after a suspected breach."}
+{"instruction": "What are standard working hours?", "input": "", "output": "Standard working hours are from 9:30 AM to 6:30 PM, Monday through Friday, excluding public holidays."}
+{"instruction": "What are standard working hours?", "input": "", "output": "Standard working hours are from 9:30 AM to 6:30 PM, Monday through Friday, excluding public holidays."}
+{"instruction": "What is the company work from home policy?", "input": "", "output": "Employees are allowed to work from home up to three days per week with prior approval from their manager."}
+{"instruction": "How does the company handle employee data privacy?", "input": "", "output": "Employee data is stored securely and accessed only by authorized personnel in compliance with data protection regulations."}
+{"instruction": "What is the company leave policy?", "input": "", "output": "Employees are entitled to 18 paid leaves per year, including casual and sick leave."}
+{"instruction": "What is the policy for using personal devices at work?", "input": "", "output": "Personal devices may be used only if they comply with company security standards."}
+{"instruction": "What is the company leave policy?", "input": "", "output": "Employees are entitled to 18 paid leaves per year, including casual and sick leave."}
+{"instruction": "What is the process for reporting workplace harassment?", "input": "", "output": "Employees should report incidents to HR through the official reporting channel for confidential handling."}
+{"instruction": "What benefits does the company offer employees?", "input": "", "output": "The company offers health insurance, paid leave, and professional development benefits."}
+{"instruction": "What are standard working hours?", "input": "", "output": "Standard working hours are from 9:30 AM to 6:30 PM, Monday through Friday, excluding public holidays."}
+{"instruction": "Is sharing login credentials allowed?", "input": "", "output": "Sharing login credentials is strictly prohibited under company security policy."}
+{"instruction": "What training programs are available to employees?", "input": "", "output": "Employees have access to internal and external training programs for skill development."}
+{"instruction": "How can I request new software installation?", "input": "", "output": "Submit a software request through the IT service portal for approval."}
+{"instruction": "What should employees do if they suspect a phishing email?", "input": "", "output": "Employees should report phishing emails to the security team and avoid clicking on links."}
+{"instruction": "What should employees do if they suspect a phishing email?", "input": "", "output": "Employees should report phishing emails to the security team and avoid clicking on links."}
+{"instruction": "What is the process for reporting workplace harassment?", "input": "", "output": "Employees should report incidents to HR through the official reporting channel for confidential handling."}
+{"instruction": "What training programs are available to employees?", "input": "", "output": "Employees have access to internal and external training programs for skill development."}
+{"instruction": "What is the deployment approval process?", "input": "", "output": "Deployments require approval from the team lead and successful completion of automated tests."}
+{"instruction": "What is the probation period for new employees?", "input": "", "output": "The probation period for new employees is six months."}
+{"instruction": "What is the deployment approval process?", "input": "", "output": "Deployments require approval from the team lead and successful completion of automated tests."}
+{"instruction": "What is the deployment approval process?", "input": "", "output": "Deployments require approval from the team lead and successful completion of automated tests."}
+{"instruction": "How should developers document their code?", "input": "", "output": "Developers are expected to write clear comments and maintain updated documentation."}
+{"instruction": "How often should passwords be changed?", "input": "", "output": "Passwords should be changed every 90 days or immediately after a suspected breach."}
+{"instruction": "How does the company handle security incidents?", "input": "", "output": "Security incidents are investigated by the security team following established response procedures."}
+{"instruction": "What is the policy for using personal devices at work?", "input": "", "output": "Personal devices may be used only if they comply with company security standards."}
+{"instruction": "What benefits does the company offer employees?", "input": "", "output": "The company offers health insurance, paid leave, and professional development benefits."}
+{"instruction": "How do I reset my company email password?", "input": "", "output": "You can reset your email password using the internal IT portal or by contacting the IT helpdesk."}
+{"instruction": "What is the probation period for new employees?", "input": "", "output": "The probation period for new employees is six months."}
+{"instruction": "What is the probation period for new employees?", "input": "", "output": "The probation period for new employees is six months."}
+{"instruction": "What should employees do if they suspect a phishing email?", "input": "", "output": "Employees should report phishing emails to the security team and avoid clicking on links."}
+{"instruction": "What is the company code review process?", "input": "", "output": "All code changes must be reviewed and approved by at least one senior engineer before merging."}
+{"instruction": "How does the company conduct performance reviews?", "input": "", "output": "Performance reviews are conducted bi-annually based on goals, feedback, and performance metrics."}
+{"instruction": "How does the company handle employee data privacy?", "input": "", "output": "Employee data is stored securely and accessed only by authorized personnel in compliance with data protection regulations."}
+{"instruction": "What version control system does the company use?", "input": "", "output": "The company uses Git for version control with repositories hosted on a centralized platform."}
+{"instruction": "What is the company leave policy?", "input": "", "output": "Employees are entitled to 18 paid leaves per year, including casual and sick leave."}
+{"instruction": "What is the company leave policy?", "input": "", "output": "Employees are entitled to 18 paid leaves per year, including casual and sick leave."}
+{"instruction": "How does the company conduct performance reviews?", "input": "", "output": "Performance reviews are conducted bi-annually based on goals, feedback, and performance metrics."}
+{"instruction": "How should developers document their code?", "input": "", "output": "Developers are expected to write clear comments and maintain updated documentation."}
+{"instruction": "What version control system does the company use?", "input": "", "output": "The company uses Git for version control with repositories hosted on a centralized platform."}
+{"instruction": "How does the company handle employee data privacy?", "input": "", "output": "Employee data is stored securely and accessed only by authorized personnel in compliance with data protection regulations."}
+{"instruction": "What training programs are available to employees?", "input": "", "output": "Employees have access to internal and external training programs for skill development."}
+{"instruction": "How are production incidents handled?", "input": "", "output": "Production incidents are logged, escalated, and reviewed during post-incident analysis."}
+{"instruction": "What should employees do if they suspect a phishing email?", "input": "", "output": "Employees should report phishing emails to the security team and avoid clicking on links."}
+{"instruction": "What is the policy for using personal devices at work?", "input": "", "output": "Personal devices may be used only if they comply with company security standards."}
+{"instruction": "What should I do if my laptop is not working?", "input": "", "output": "Report the issue to IT support immediately and avoid attempting unauthorized repairs."}
+{"instruction": "How can I request new software installation?", "input": "", "output": "Submit a software request through the IT service portal for approval."}
+{"instruction": "What is the company work from home policy?", "input": "", "output": "Employees are allowed to work from home up to three days per week with prior approval from their manager."}
+{"instruction": "How should developers document their code?", "input": "", "output": "Developers are expected to write clear comments and maintain updated documentation."}
+{"instruction": "How does the company handle security incidents?", "input": "", "output": "Security incidents are investigated by the security team following established response procedures."}
+{"instruction": "What is the deployment approval process?", "input": "", "output": "Deployments require approval from the team lead and successful completion of automated tests."}
+{"instruction": "What version control system does the company use?", "input": "", "output": "The company uses Git for version control with repositories hosted on a centralized platform."}
+{"instruction": "How do I reset my company email password?", "input": "", "output": "You can reset your email password using the internal IT portal or by contacting the IT helpdesk."}
+{"instruction": "How does the company handle security incidents?", "input": "", "output": "Security incidents are investigated by the security team following established response procedures."}
+{"instruction": "What is the company work from home policy?", "input": "", "output": "Employees are allowed to work from home up to three days per week with prior approval from their manager."}
+{"instruction": "What is the company password policy?", "input": "", "output": "Passwords must be at least 12 characters long and include a mix of letters, numbers, and symbols."}
+{"instruction": "What should employees do if they suspect a phishing email?", "input": "", "output": "Employees should report phishing emails to the security team and avoid clicking on links."}
+{"instruction": "How can I request new software installation?", "input": "", "output": "Submit a software request through the IT service portal for approval."}
+{"instruction": "What is the deployment approval process?", "input": "", "output": "Deployments require approval from the team lead and successful completion of automated tests."}
+{"instruction": "What is the process for reporting workplace harassment?", "input": "", "output": "Employees should report incidents to HR through the official reporting channel for confidential handling."}
+{"instruction": "How do I reset my company email password?", "input": "", "output": "You can reset your email password using the internal IT portal or by contacting the IT helpdesk."}
+{"instruction": "How are production incidents handled?", "input": "", "output": "Production incidents are logged, escalated, and reviewed during post-incident analysis."}
+{"instruction": "What is the company work from home policy?", "input": "", "output": "Employees are allowed to work from home up to three days per week with prior approval from their manager."}
+{"instruction": "What is the process for reporting workplace harassment?", "input": "", "output": "Employees should report incidents to HR through the official reporting channel for confidential handling."}
+{"instruction": "How often should passwords be changed?", "input": "", "output": "Passwords should be changed every 90 days or immediately after a suspected breach."}
+{"instruction": "How does the company conduct performance reviews?", "input": "", "output": "Performance reviews are conducted bi-annually based on goals, feedback, and performance metrics."}
+{"instruction": "What is the process for reporting workplace harassment?", "input": "", "output": "Employees should report incidents to HR through the official reporting channel for confidential handling."}
+{"instruction": "What is the policy for using personal devices at work?", "input": "", "output": "Personal devices may be used only if they comply with company security standards."}
+{"instruction": "What is the company code review process?", "input": "", "output": "All code changes must be reviewed and approved by at least one senior engineer before merging."}
+{"instruction": "How do I reset my company email password?", "input": "", "output": "You can reset your email password using the internal IT portal or by contacting the IT helpdesk."}
+{"instruction": "How does the company handle employee data privacy?", "input": "", "output": "Employee data is stored securely and accessed only by authorized personnel in compliance with data protection regulations."}
+{"instruction": "How does the company handle employee data privacy?", "input": "", "output": "Employee data is stored securely and accessed only by authorized personnel in compliance with data protection regulations."}
+{"instruction": "What is the company leave policy?", "input": "", "output": "Employees are entitled to 18 paid leaves per year, including casual and sick leave."}
+{"instruction": "What is the company code review process?", "input": "", "output": "All code changes must be reviewed and approved by at least one senior engineer before merging."}
+{"instruction": "How do I reset my company email password?", "input": "", "output": "You can reset your email password using the internal IT portal or by contacting the IT helpdesk."}
+{"instruction": "What is the process for reporting workplace harassment?", "input": "", "output": "Employees should report incidents to HR through the official reporting channel for confidential handling."}
+{"instruction": "What version control system does the company use?", "input": "", "output": "The company uses Git for version control with repositories hosted on a centralized platform."}
+{"instruction": "How do I connect to the company VPN?", "input": "", "output": "Install the VPN client provided by IT and log in using your company credentials."}
+{"instruction": "What should employees do if they suspect a phishing email?", "input": "", "output": "Employees should report phishing emails to the security team and avoid clicking on links."}
+{"instruction": "How can I request new software installation?", "input": "", "output": "Submit a software request through the IT service portal for approval."}
+{"instruction": "How can employees apply for internal job openings?", "input": "", "output": "Internal job openings are posted on the company portal and employees may apply directly."}
+{"instruction": "How does the company handle employee data privacy?", "input": "", "output": "Employee data is stored securely and accessed only by authorized personnel in compliance with data protection regulations."}
+{"instruction": "What is the company work from home policy?", "input": "", "output": "Employees are allowed to work from home up to three days per week with prior approval from their manager."}
+{"instruction": "How does the company handle security incidents?", "input": "", "output": "Security incidents are investigated by the security team following established response procedures."}
+{"instruction": "Is sharing login credentials allowed?", "input": "", "output": "Sharing login credentials is strictly prohibited under company security policy."}
+{"instruction": "What is the process for reporting workplace harassment?", "input": "", "output": "Employees should report incidents to HR through the official reporting channel for confidential handling."}
+{"instruction": "How are production incidents handled?", "input": "", "output": "Production incidents are logged, escalated, and reviewed during post-incident analysis."}
+{"instruction": "What should I do if my laptop is not working?", "input": "", "output": "Report the issue to IT support immediately and avoid attempting unauthorized repairs."}
+{"instruction": "What should employees do if they suspect a phishing email?", "input": "", "output": "Employees should report phishing emails to the security team and avoid clicking on links."}
+{"instruction": "What should I do if my laptop is not working?", "input": "", "output": "Report the issue to IT support immediately and avoid attempting unauthorized repairs."}
+{"instruction": "What version control system does the company use?", "input": "", "output": "The company uses Git for version control with repositories hosted on a centralized platform."}
+{"instruction": "What is the company leave policy?", "input": "", "output": "Employees are entitled to 18 paid leaves per year, including casual and sick leave."}
+{"instruction": "What is the probation period for new employees?", "input": "", "output": "The probation period for new employees is six months."}
+{"instruction": "How can employees apply for internal job openings?", "input": "", "output": "Internal job openings are posted on the company portal and employees may apply directly."}
+{"instruction": "How often should passwords be changed?", "input": "", "output": "Passwords should be changed every 90 days or immediately after a suspected breach."}
+{"instruction": "What benefits does the company offer employees?", "input": "", "output": "The company offers health insurance, paid leave, and professional development benefits."}
+{"instruction": "What training programs are available to employees?", "input": "", "output": "Employees have access to internal and external training programs for skill development."}
+{"instruction": "What is the policy for using personal devices at work?", "input": "", "output": "Personal devices may be used only if they comply with company security standards."}
+{"instruction": "What is the process for reporting workplace harassment?", "input": "", "output": "Employees should report incidents to HR through the official reporting channel for confidential handling."}
+{"instruction": "How can I request new software installation?", "input": "", "output": "Submit a software request through the IT service portal for approval."}
+{"instruction": "What is the probation period for new employees?", "input": "", "output": "The probation period for new employees is six months."}
+{"instruction": "What is the probation period for new employees?", "input": "", "output": "The probation period for new employees is six months."}
+{"instruction": "What is the company code review process?", "input": "", "output": "All code changes must be reviewed and approved by at least one senior engineer before merging."}
+{"instruction": "How should developers document their code?", "input": "", "output": "Developers are expected to write clear comments and maintain updated documentation."}
+{"instruction": "What is the policy for using personal devices at work?", "input": "", "output": "Personal devices may be used only if they comply with company security standards."}
+{"instruction": "What training programs are available to employees?", "input": "", "output": "Employees have access to internal and external training programs for skill development."}
+{"instruction": "How can employees apply for internal job openings?", "input": "", "output": "Internal job openings are posted on the company portal and employees may apply directly."}
+{"instruction": "What is the company leave policy?", "input": "", "output": "Employees are entitled to 18 paid leaves per year, including casual and sick leave."}
+{"instruction": "How does the company conduct performance reviews?", "input": "", "output": "Performance reviews are conducted bi-annually based on goals, feedback, and performance metrics."}
+{"instruction": "How do I connect to the company VPN?", "input": "", "output": "Install the VPN client provided by IT and log in using your company credentials."}
+{"instruction": "What are standard working hours?", "input": "", "output": "Standard working hours are from 9:30 AM to 6:30 PM, Monday through Friday, excluding public holidays."}
+{"instruction": "How does the company handle security incidents?", "input": "", "output": "Security incidents are investigated by the security team following established response procedures."}
+{"instruction": "How often should passwords be changed?", "input": "", "output": "Passwords should be changed every 90 days or immediately after a suspected breach."}
+{"instruction": "What is the company code review process?", "input": "", "output": "All code changes must be reviewed and approved by at least one senior engineer before merging."}
+{"instruction": "How does the company handle employee data privacy?", "input": "", "output": "Employee data is stored securely and accessed only by authorized personnel in compliance with data protection regulations."}
+{"instruction": "How are production incidents handled?", "input": "", "output": "Production incidents are logged, escalated, and reviewed during post-incident analysis."}
+{"instruction": "How often should passwords be changed?", "input": "", "output": "Passwords should be changed every 90 days or immediately after a suspected breach."}
+{"instruction": "Is sharing login credentials allowed?", "input": "", "output": "Sharing login credentials is strictly prohibited under company security policy."}
+{"instruction": "What benefits does the company offer employees?", "input": "", "output": "The company offers health insurance, paid leave, and professional development benefits."}
+{"instruction": "What is the company leave policy?", "input": "", "output": "Employees are entitled to 18 paid leaves per year, including casual and sick leave."}
+{"instruction": "How are production incidents handled?", "input": "", "output": "Production incidents are logged, escalated, and reviewed during post-incident analysis."}
+{"instruction": "What is the company leave policy?", "input": "", "output": "Employees are entitled to 18 paid leaves per year, including casual and sick leave."}
+{"instruction": "What should employees do if they suspect a phishing email?", "input": "", "output": "Employees should report phishing emails to the security team and avoid clicking on links."}
+{"instruction": "How does the company handle employee data privacy?", "input": "", "output": "Employee data is stored securely and accessed only by authorized personnel in compliance with data protection regulations."}
+{"instruction": "What is the deployment approval process?", "input": "", "output": "Deployments require approval from the team lead and successful completion of automated tests."}
+{"instruction": "What is the process for reporting workplace harassment?", "input": "", "output": "Employees should report incidents to HR through the official reporting channel for confidential handling."}
+{"instruction": "What is the company work from home policy?", "input": "", "output": "Employees are allowed to work from home up to three days per week with prior approval from their manager."}
+{"instruction": "What benefits does the company offer employees?", "input": "", "output": "The company offers health insurance, paid leave, and professional development benefits."}
+{"instruction": "How does the company handle security incidents?", "input": "", "output": "Security incidents are investigated by the security team following established response procedures."}
+{"instruction": "What is the company code review process?", "input": "", "output": "All code changes must be reviewed and approved by at least one senior engineer before merging."}
+{"instruction": "What is the company password policy?", "input": "", "output": "Passwords must be at least 12 characters long and include a mix of letters, numbers, and symbols."}
+{"instruction": "What is the deployment approval process?", "input": "", "output": "Deployments require approval from the team lead and successful completion of automated tests."}
+{"instruction": "What should I do if my laptop is not working?", "input": "", "output": "Report the issue to IT support immediately and avoid attempting unauthorized repairs."}
+{"instruction": "How does the company handle employee data privacy?", "input": "", "output": "Employee data is stored securely and accessed only by authorized personnel in compliance with data protection regulations."}
+{"instruction": "What are standard working hours?", "input": "", "output": "Standard working hours are from 9:30 AM to 6:30 PM, Monday through Friday, excluding public holidays."}
+{"instruction": "What is the company leave policy?", "input": "", "output": "Employees are entitled to 18 paid leaves per year, including casual and sick leave."}
+{"instruction": "What is the company code review process?", "input": "", "output": "All code changes must be reviewed and approved by at least one senior engineer before merging."}
+{"instruction": "What is the company leave policy?", "input": "", "output": "Employees are entitled to 18 paid leaves per year, including casual and sick leave."}
+{"instruction": "What is the process for reporting workplace harassment?", "input": "", "output": "Employees should report incidents to HR through the official reporting channel for confidential handling."}
+{"instruction": "How can I request new software installation?", "input": "", "output": "Submit a software request through the IT service portal for approval."}
+{"instruction": "How can employees apply for internal job openings?", "input": "", "output": "Internal job openings are posted on the company portal and employees may apply directly."}
+{"instruction": "What is the company leave policy?", "input": "", "output": "Employees are entitled to 18 paid leaves per year, including casual and sick leave."}
+{"instruction": "How do I connect to the company VPN?", "input": "", "output": "Install the VPN client provided by IT and log in using your company credentials."}
+{"instruction": "How often should passwords be changed?", "input": "", "output": "Passwords should be changed every 90 days or immediately after a suspected breach."}
+{"instruction": "How does the company handle employee data privacy?", "input": "", "output": "Employee data is stored securely and accessed only by authorized personnel in compliance with data protection regulations."}
+{"instruction": "What is the company password policy?", "input": "", "output": "Passwords must be at least 12 characters long and include a mix of letters, numbers, and symbols."}
+{"instruction": "What should I do if my laptop is not working?", "input": "", "output": "Report the issue to IT support immediately and avoid attempting unauthorized repairs."}
+{"instruction": "How can employees apply for internal job openings?", "input": "", "output": "Internal job openings are posted on the company portal and employees may apply directly."}
+{"instruction": "How does the company handle employee data privacy?", "input": "", "output": "Employee data is stored securely and accessed only by authorized personnel in compliance with data protection regulations."}
+{"instruction": "What is the deployment approval process?", "input": "", "output": "Deployments require approval from the team lead and successful completion of automated tests."}
+{"instruction": "What is the company leave policy?", "input": "", "output": "Employees are entitled to 18 paid leaves per year, including casual and sick leave."}
+{"instruction": "How do I connect to the company VPN?", "input": "", "output": "Install the VPN client provided by IT and log in using your company credentials."}
+{"instruction": "How do I reset my company email password?", "input": "", "output": "You can reset your email password using the internal IT portal or by contacting the IT helpdesk."}
+{"instruction": "How does the company conduct performance reviews?", "input": "", "output": "Performance reviews are conducted bi-annually based on goals, feedback, and performance metrics."}
+{"instruction": "What is the probation period for new employees?", "input": "", "output": "The probation period for new employees is six months."}
+{"instruction": "What should employees do if they suspect a phishing email?", "input": "", "output": "Employees should report phishing emails to the security team and avoid clicking on links."}
+{"instruction": "What is the policy for using personal devices at work?", "input": "", "output": "Personal devices may be used only if they comply with company security standards."}
+{"instruction": "What should employees do if they suspect a phishing email?", "input": "", "output": "Employees should report phishing emails to the security team and avoid clicking on links."}
+{"instruction": "Is sharing login credentials allowed?", "input": "", "output": "Sharing login credentials is strictly prohibited under company security policy."}
+{"instruction": "What are standard working hours?", "input": "", "output": "Standard working hours are from 9:30 AM to 6:30 PM, Monday through Friday, excluding public holidays."}
+{"instruction": "How can employees apply for internal job openings?", "input": "", "output": "Internal job openings are posted on the company portal and employees may apply directly."}
+{"instruction": "What benefits does the company offer employees?", "input": "", "output": "The company offers health insurance, paid leave, and professional development benefits."}
+{"instruction": "What is the company code review process?", "input": "", "output": "All code changes must be reviewed and approved by at least one senior engineer before merging."}
+{"instruction": "What is the policy for using personal devices at work?", "input": "", "output": "Personal devices may be used only if they comply with company security standards."}
+{"instruction": "How often should passwords be changed?", "input": "", "output": "Passwords should be changed every 90 days or immediately after a suspected breach."}
+{"instruction": "How do I connect to the company VPN?", "input": "", "output": "Install the VPN client provided by IT and log in using your company credentials."}
+{"instruction": "What is the company code review process?", "input": "", "output": "All code changes must be reviewed and approved by at least one senior engineer before merging."}
+{"instruction": "How should developers document their code?", "input": "", "output": "Developers are expected to write clear comments and maintain updated documentation."}
+{"instruction": "How do I reset my company email password?", "input": "", "output": "You can reset your email password using the internal IT portal or by contacting the IT helpdesk."}
+{"instruction": "How should developers document their code?", "input": "", "output": "Developers are expected to write clear comments and maintain updated documentation."}
+{"instruction": "What is the company leave policy?", "input": "", "output": "Employees are entitled to 18 paid leaves per year, including casual and sick leave."}
+{"instruction": "What is the company code review process?", "input": "", "output": "All code changes must be reviewed and approved by at least one senior engineer before merging."}
+{"instruction": "How do I connect to the company VPN?", "input": "", "output": "Install the VPN client provided by IT and log in using your company credentials."}
+{"instruction": "What should I do if my laptop is not working?", "input": "", "output": "Report the issue to IT support immediately and avoid attempting unauthorized repairs."}
+{"instruction": "How often should passwords be changed?", "input": "", "output": "Passwords should be changed every 90 days or immediately after a suspected breach."}
+{"instruction": "What are standard working hours?", "input": "", "output": "Standard working hours are from 9:30 AM to 6:30 PM, Monday through Friday, excluding public holidays."}
+{"instruction": "How do I connect to the company VPN?", "input": "", "output": "Install the VPN client provided by IT and log in using your company credentials."}
+{"instruction": "What is the deployment approval process?", "input": "", "output": "Deployments require approval from the team lead and successful completion of automated tests."}
+{"instruction": "What training programs are available to employees?", "input": "", "output": "Employees have access to internal and external training programs for skill development."}
+{"instruction": "What are standard working hours?", "input": "", "output": "Standard working hours are from 9:30 AM to 6:30 PM, Monday through Friday, excluding public holidays."}
+{"instruction": "How should developers document their code?", "input": "", "output": "Developers are expected to write clear comments and maintain updated documentation."}
+{"instruction": "How does the company handle security incidents?", "input": "", "output": "Security incidents are investigated by the security team following established response procedures."}
+{"instruction": "Is sharing login credentials allowed?", "input": "", "output": "Sharing login credentials is strictly prohibited under company security policy."}
+{"instruction": "How can employees apply for internal job openings?", "input": "", "output": "Internal job openings are posted on the company portal and employees may apply directly."}
+{"instruction": "What benefits does the company offer employees?", "input": "", "output": "The company offers health insurance, paid leave, and professional development benefits."}
+{"instruction": "How can employees apply for internal job openings?", "input": "", "output": "Internal job openings are posted on the company portal and employees may apply directly."}
+{"instruction": "What should I do if my laptop is not working?", "input": "", "output": "Report the issue to IT support immediately and avoid attempting unauthorized repairs."}
+{"instruction": "How do I connect to the company VPN?", "input": "", "output": "Install the VPN client provided by IT and log in using your company credentials."}
+{"instruction": "What is the probation period for new employees?", "input": "", "output": "The probation period for new employees is six months."}
+{"instruction": "How are production incidents handled?", "input": "", "output": "Production incidents are logged, escalated, and reviewed during post-incident analysis."}
+{"instruction": "How can I request new software installation?", "input": "", "output": "Submit a software request through the IT service portal for approval."}
+{"instruction": "What are standard working hours?", "input": "", "output": "Standard working hours are from 9:30 AM to 6:30 PM, Monday through Friday, excluding public holidays."}
+{"instruction": "What is the deployment approval process?", "input": "", "output": "Deployments require approval from the team lead and successful completion of automated tests."}
+{"instruction": "What is the company password policy?", "input": "", "output": "Passwords must be at least 12 characters long and include a mix of letters, numbers, and symbols."}
+{"instruction": "How often should passwords be changed?", "input": "", "output": "Passwords should be changed every 90 days or immediately after a suspected breach."}
+{"instruction": "What should employees do if they suspect a phishing email?", "input": "", "output": "Employees should report phishing emails to the security team and avoid clicking on links."}
+{"instruction": "What benefits does the company offer employees?", "input": "", "output": "The company offers health insurance, paid leave, and professional development benefits."}
+{"instruction": "Is sharing login credentials allowed?", "input": "", "output": "Sharing login credentials is strictly prohibited under company security policy."}
+{"instruction": "What is the process for reporting workplace harassment?", "input": "", "output": "Employees should report incidents to HR through the official reporting channel for confidential handling."}
+{"instruction": "What is the policy for using personal devices at work?", "input": "", "output": "Personal devices may be used only if they comply with company security standards."}
+{"instruction": "What is the company password policy?", "input": "", "output": "Passwords must be at least 12 characters long and include a mix of letters, numbers, and symbols."}
+{"instruction": "How are production incidents handled?", "input": "", "output": "Production incidents are logged, escalated, and reviewed during post-incident analysis."}
+{"instruction": "How does the company handle security incidents?", "input": "", "output": "Security incidents are investigated by the security team following established response procedures."}
+{"instruction": "How does the company handle security incidents?", "input": "", "output": "Security incidents are investigated by the security team following established response procedures."}
+{"instruction": "How can I request new software installation?", "input": "", "output": "Submit a software request through the IT service portal for approval."}
+{"instruction": "How should developers document their code?", "input": "", "output": "Developers are expected to write clear comments and maintain updated documentation."}
+{"instruction": "How are production incidents handled?", "input": "", "output": "Production incidents are logged, escalated, and reviewed during post-incident analysis."}
+{"instruction": "What is the company work from home policy?", "input": "", "output": "Employees are allowed to work from home up to three days per week with prior approval from their manager."}
+{"instruction": "What is the probation period for new employees?", "input": "", "output": "The probation period for new employees is six months."}
+{"instruction": "How do I connect to the company VPN?", "input": "", "output": "Install the VPN client provided by IT and log in using your company credentials."}
+{"instruction": "How often should passwords be changed?", "input": "", "output": "Passwords should be changed every 90 days or immediately after a suspected breach."}
+{"instruction": "What benefits does the company offer employees?", "input": "", "output": "The company offers health insurance, paid leave, and professional development benefits."}
+{"instruction": "What is the company code review process?", "input": "", "output": "All code changes must be reviewed and approved by at least one senior engineer before merging."}
+{"instruction": "How do I reset my company email password?", "input": "", "output": "You can reset your email password using the internal IT portal or by contacting the IT helpdesk."}
+{"instruction": "What should I do if my laptop is not working?", "input": "", "output": "Report the issue to IT support immediately and avoid attempting unauthorized repairs."}
+{"instruction": "What is the company code review process?", "input": "", "output": "All code changes must be reviewed and approved by at least one senior engineer before merging."}
+{"instruction": "How does the company conduct performance reviews?", "input": "", "output": "Performance reviews are conducted bi-annually based on goals, feedback, and performance metrics."}
+{"instruction": "How does the company conduct performance reviews?", "input": "", "output": "Performance reviews are conducted bi-annually based on goals, feedback, and performance metrics."}
+{"instruction": "How can employees apply for internal job openings?", "input": "", "output": "Internal job openings are posted on the company portal and employees may apply directly."}
+{"instruction": "What are standard working hours?", "input": "", "output": "Standard working hours are from 9:30 AM to 6:30 PM, Monday through Friday, excluding public holidays."}
+{"instruction": "What is the company password policy?", "input": "", "output": "Passwords must be at least 12 characters long and include a mix of letters, numbers, and symbols."}
+{"instruction": "How can I request new software installation?", "input": "", "output": "Submit a software request through the IT service portal for approval."}
+{"instruction": "How does the company handle employee data privacy?", "input": "", "output": "Employee data is stored securely and accessed only by authorized personnel in compliance with data protection regulations."}
+{"instruction": "What should employees do if they suspect a phishing email?", "input": "", "output": "Employees should report phishing emails to the security team and avoid clicking on links."}
+{"instruction": "How can employees apply for internal job openings?", "input": "", "output": "Internal job openings are posted on the company portal and employees may apply directly."}
+{"instruction": "What is the company code review process?", "input": "", "output": "All code changes must be reviewed and approved by at least one senior engineer before merging."}
+{"instruction": "What is the company code review process?", "input": "", "output": "All code changes must be reviewed and approved by at least one senior engineer before merging."}
+{"instruction": "How do I reset my company email password?", "input": "", "output": "You can reset your email password using the internal IT portal or by contacting the IT helpdesk."}
+{"instruction": "How are production incidents handled?", "input": "", "output": "Production incidents are logged, escalated, and reviewed during post-incident analysis."}
+{"instruction": "How can employees apply for internal job openings?", "input": "", "output": "Internal job openings are posted on the company portal and employees may apply directly."}
+{"instruction": "How are production incidents handled?", "input": "", "output": "Production incidents are logged, escalated, and reviewed during post-incident analysis."}
+{"instruction": "What is the company work from home policy?", "input": "", "output": "Employees are allowed to work from home up to three days per week with prior approval from their manager."}
+{"instruction": "How can I request new software installation?", "input": "", "output": "Submit a software request through the IT service portal for approval."}
+{"instruction": "What is the probation period for new employees?", "input": "", "output": "The probation period for new employees is six months."}
+{"instruction": "What is the company work from home policy?", "input": "", "output": "Employees are allowed to work from home up to three days per week with prior approval from their manager."}
+{"instruction": "What should I do if my laptop is not working?", "input": "", "output": "Report the issue to IT support immediately and avoid attempting unauthorized repairs."}
+{"instruction": "What is the process for reporting workplace harassment?", "input": "", "output": "Employees should report incidents to HR through the official reporting channel for confidential handling."}
+{"instruction": "What should I do if my laptop is not working?", "input": "", "output": "Report the issue to IT support immediately and avoid attempting unauthorized repairs."}
+{"instruction": "What is the process for reporting workplace harassment?", "input": "", "output": "Employees should report incidents to HR through the official reporting channel for confidential handling."}
+{"instruction": "What is the probation period for new employees?", "input": "", "output": "The probation period for new employees is six months."}
+{"instruction": "What should I do if my laptop is not working?", "input": "", "output": "Report the issue to IT support immediately and avoid attempting unauthorized repairs."}
+{"instruction": "What is the company password policy?", "input": "", "output": "Passwords must be at least 12 characters long and include a mix of letters, numbers, and symbols."}
+{"instruction": "How do I reset my company email password?", "input": "", "output": "You can reset your email password using the internal IT portal or by contacting the IT helpdesk."}
+{"instruction": "How do I reset my company email password?", "input": "", "output": "You can reset your email password using the internal IT portal or by contacting the IT helpdesk."}
+{"instruction": "How does the company handle security incidents?", "input": "", "output": "Security incidents are investigated by the security team following established response procedures."}
+{"instruction": "What is the company work from home policy?", "input": "", "output": "Employees are allowed to work from home up to three days per week with prior approval from their manager."}
+{"instruction": "What is the company work from home policy?", "input": "", "output": "Employees are allowed to work from home up to three days per week with prior approval from their manager."}
+{"instruction": "How should developers document their code?", "input": "", "output": "Developers are expected to write clear comments and maintain updated documentation."}
+{"instruction": "What is the process for reporting workplace harassment?", "input": "", "output": "Employees should report incidents to HR through the official reporting channel for confidential handling."}
+{"instruction": "What should employees do if they suspect a phishing email?", "input": "", "output": "Employees should report phishing emails to the security team and avoid clicking on links."}
+{"instruction": "What version control system does the company use?", "input": "", "output": "The company uses Git for version control with repositories hosted on a centralized platform."}
+{"instruction": "What is the policy for using personal devices at work?", "input": "", "output": "Personal devices may be used only if they comply with company security standards."}
+{"instruction": "What should employees do if they suspect a phishing email?", "input": "", "output": "Employees should report phishing emails to the security team and avoid clicking on links."}
+{"instruction": "How does the company handle security incidents?", "input": "", "output": "Security incidents are investigated by the security team following established response procedures."}
+{"instruction": "What is the deployment approval process?", "input": "", "output": "Deployments require approval from the team lead and successful completion of automated tests."}
+{"instruction": "What is the company leave policy?", "input": "", "output": "Employees are entitled to 18 paid leaves per year, including casual and sick leave."}
+{"instruction": "How does the company handle security incidents?", "input": "", "output": "Security incidents are investigated by the security team following established response procedures."}
+{"instruction": "How should developers document their code?", "input": "", "output": "Developers are expected to write clear comments and maintain updated documentation."}
+{"instruction": "What is the process for reporting workplace harassment?", "input": "", "output": "Employees should report incidents to HR through the official reporting channel for confidential handling."}
+{"instruction": "How should developers document their code?", "input": "", "output": "Developers are expected to write clear comments and maintain updated documentation."}
+{"instruction": "What version control system does the company use?", "input": "", "output": "The company uses Git for version control with repositories hosted on a centralized platform."}
+{"instruction": "What training programs are available to employees?", "input": "", "output": "Employees have access to internal and external training programs for skill development."}
+{"instruction": "How does the company conduct performance reviews?", "input": "", "output": "Performance reviews are conducted bi-annually based on goals, feedback, and performance metrics."}
+{"instruction": "What should I do if my laptop is not working?", "input": "", "output": "Report the issue to IT support immediately and avoid attempting unauthorized repairs."}
+{"instruction": "How do I connect to the company VPN?", "input": "", "output": "Install the VPN client provided by IT and log in using your company credentials."}
+{"instruction": "How does the company handle security incidents?", "input": "", "output": "Security incidents are investigated by the security team following established response procedures."}
+{"instruction": "What is the probation period for new employees?", "input": "", "output": "The probation period for new employees is six months."}
+{"instruction": "How do I reset my company email password?", "input": "", "output": "You can reset your email password using the internal IT portal or by contacting the IT helpdesk."}
+{"instruction": "How do I reset my company email password?", "input": "", "output": "You can reset your email password using the internal IT portal or by contacting the IT helpdesk."}
+{"instruction": "Is sharing login credentials allowed?", "input": "", "output": "Sharing login credentials is strictly prohibited under company security policy."}
+{"instruction": "How does the company handle employee data privacy?", "input": "", "output": "Employee data is stored securely and accessed only by authorized personnel in compliance with data protection regulations."}
+{"instruction": "What are standard working hours?", "input": "", "output": "Standard working hours are from 9:30 AM to 6:30 PM, Monday through Friday, excluding public holidays."}
+{"instruction": "How often should passwords be changed?", "input": "", "output": "Passwords should be changed every 90 days or immediately after a suspected breach."}
+{"instruction": "Is sharing login credentials allowed?", "input": "", "output": "Sharing login credentials is strictly prohibited under company security policy."}
+{"instruction": "How should developers document their code?", "input": "", "output": "Developers are expected to write clear comments and maintain updated documentation."}
+{"instruction": "How does the company conduct performance reviews?", "input": "", "output": "Performance reviews are conducted bi-annually based on goals, feedback, and performance metrics."}
+{"instruction": "How does the company handle employee data privacy?", "input": "", "output": "Employee data is stored securely and accessed only by authorized personnel in compliance with data protection regulations."}
+{"instruction": "What is the process for reporting workplace harassment?", "input": "", "output": "Employees should report incidents to HR through the official reporting channel for confidential handling."}
+{"instruction": "What is the deployment approval process?", "input": "", "output": "Deployments require approval from the team lead and successful completion of automated tests."}
+{"instruction": "What is the process for reporting workplace harassment?", "input": "", "output": "Employees should report incidents to HR through the official reporting channel for confidential handling."}
+{"instruction": "How often should passwords be changed?", "input": "", "output": "Passwords should be changed every 90 days or immediately after a suspected breach."}
+{"instruction": "What is the policy for using personal devices at work?", "input": "", "output": "Personal devices may be used only if they comply with company security standards."}
+{"instruction": "What training programs are available to employees?", "input": "", "output": "Employees have access to internal and external training programs for skill development."}
+{"instruction": "What should I do if my laptop is not working?", "input": "", "output": "Report the issue to IT support immediately and avoid attempting unauthorized repairs."}
+{"instruction": "How does the company handle security incidents?", "input": "", "output": "Security incidents are investigated by the security team following established response procedures."}
+{"instruction": "What version control system does the company use?", "input": "", "output": "The company uses Git for version control with repositories hosted on a centralized platform."}
+{"instruction": "How does the company conduct performance reviews?", "input": "", "output": "Performance reviews are conducted bi-annually based on goals, feedback, and performance metrics."}
+{"instruction": "How can employees apply for internal job openings?", "input": "", "output": "Internal job openings are posted on the company portal and employees may apply directly."}
+{"instruction": "What is the company work from home policy?", "input": "", "output": "Employees are allowed to work from home up to three days per week with prior approval from their manager."}
+{"instruction": "How are production incidents handled?", "input": "", "output": "Production incidents are logged, escalated, and reviewed during post-incident analysis."}
+{"instruction": "How does the company conduct performance reviews?", "input": "", "output": "Performance reviews are conducted bi-annually based on goals, feedback, and performance metrics."}
+{"instruction": "What are standard working hours?", "input": "", "output": "Standard working hours are from 9:30 AM to 6:30 PM, Monday through Friday, excluding public holidays."}
+{"instruction": "What is the policy for using personal devices at work?", "input": "", "output": "Personal devices may be used only if they comply with company security standards."}
+{"instruction": "What is the company password policy?", "input": "", "output": "Passwords must be at least 12 characters long and include a mix of letters, numbers, and symbols."}
+{"instruction": "What should employees do if they suspect a phishing email?", "input": "", "output": "Employees should report phishing emails to the security team and avoid clicking on links."}
+{"instruction": "How should developers document their code?", "input": "", "output": "Developers are expected to write clear comments and maintain updated documentation."}
+{"instruction": "What is the company leave policy?", "input": "", "output": "Employees are entitled to 18 paid leaves per year, including casual and sick leave."}
+{"instruction": "How should developers document their code?", "input": "", "output": "Developers are expected to write clear comments and maintain updated documentation."}
+{"instruction": "What is the process for reporting workplace harassment?", "input": "", "output": "Employees should report incidents to HR through the official reporting channel for confidential handling."}
+{"instruction": "What is the process for reporting workplace harassment?", "input": "", "output": "Employees should report incidents to HR through the official reporting channel for confidential handling."}
+{"instruction": "What is the company leave policy?", "input": "", "output": "Employees are entitled to 18 paid leaves per year, including casual and sick leave."}
+{"instruction": "What is the policy for using personal devices at work?", "input": "", "output": "Personal devices may be used only if they comply with company security standards."}
+{"instruction": "How often should passwords be changed?", "input": "", "output": "Passwords should be changed every 90 days or immediately after a suspected breach."}
+{"instruction": "How do I connect to the company VPN?", "input": "", "output": "Install the VPN client provided by IT and log in using your company credentials."}
+{"instruction": "What should employees do if they suspect a phishing email?", "input": "", "output": "Employees should report phishing emails to the security team and avoid clicking on links."}
+{"instruction": "How can employees apply for internal job openings?", "input": "", "output": "Internal job openings are posted on the company portal and employees may apply directly."}
+{"instruction": "How does the company conduct performance reviews?", "input": "", "output": "Performance reviews are conducted bi-annually based on goals, feedback, and performance metrics."}
+{"instruction": "What is the company code review process?", "input": "", "output": "All code changes must be reviewed and approved by at least one senior engineer before merging."}
+{"instruction": "What is the probation period for new employees?", "input": "", "output": "The probation period for new employees is six months."}
+{"instruction": "How does the company handle security incidents?", "input": "", "output": "Security incidents are investigated by the security team following established response procedures."}
+{"instruction": "What should I do if my laptop is not working?", "input": "", "output": "Report the issue to IT support immediately and avoid attempting unauthorized repairs."}
+{"instruction": "How do I connect to the company VPN?", "input": "", "output": "Install the VPN client provided by IT and log in using your company credentials."}
+{"instruction": "Is sharing login credentials allowed?", "input": "", "output": "Sharing login credentials is strictly prohibited under company security policy."}
+{"instruction": "What is the company code review process?", "input": "", "output": "All code changes must be reviewed and approved by at least one senior engineer before merging."}
+{"instruction": "How should developers document their code?", "input": "", "output": "Developers are expected to write clear comments and maintain updated documentation."}
+{"instruction": "What is the company leave policy?", "input": "", "output": "Employees are entitled to 18 paid leaves per year, including casual and sick leave."}
+{"instruction": "How does the company handle employee data privacy?", "input": "", "output": "Employee data is stored securely and accessed only by authorized personnel in compliance with data protection regulations."}
+{"instruction": "What benefits does the company offer employees?", "input": "", "output": "The company offers health insurance, paid leave, and professional development benefits."}
+{"instruction": "What training programs are available to employees?", "input": "", "output": "Employees have access to internal and external training programs for skill development."}
+{"instruction": "What is the company code review process?", "input": "", "output": "All code changes must be reviewed and approved by at least one senior engineer before merging."}
+{"instruction": "How often should passwords be changed?", "input": "", "output": "Passwords should be changed every 90 days or immediately after a suspected breach."}
+{"instruction": "What should I do if my laptop is not working?", "input": "", "output": "Report the issue to IT support immediately and avoid attempting unauthorized repairs."}
+{"instruction": "How can employees apply for internal job openings?", "input": "", "output": "Internal job openings are posted on the company portal and employees may apply directly."}
+{"instruction": "What is the company code review process?", "input": "", "output": "All code changes must be reviewed and approved by at least one senior engineer before merging."}
+{"instruction": "How does the company handle employee data privacy?", "input": "", "output": "Employee data is stored securely and accessed only by authorized personnel in compliance with data protection regulations."}
+{"instruction": "What should employees do if they suspect a phishing email?", "input": "", "output": "Employees should report phishing emails to the security team and avoid clicking on links."}
+{"instruction": "Is sharing login credentials allowed?", "input": "", "output": "Sharing login credentials is strictly prohibited under company security policy."}
+{"instruction": "What is the company password policy?", "input": "", "output": "Passwords must be at least 12 characters long and include a mix of letters, numbers, and symbols."}
+{"instruction": "How are production incidents handled?", "input": "", "output": "Production incidents are logged, escalated, and reviewed during post-incident analysis."}
+{"instruction": "What should employees do if they suspect a phishing email?", "input": "", "output": "Employees should report phishing emails to the security team and avoid clicking on links."}
+{"instruction": "What should employees do if they suspect a phishing email?", "input": "", "output": "Employees should report phishing emails to the security team and avoid clicking on links."}
+{"instruction": "How are production incidents handled?", "input": "", "output": "Production incidents are logged, escalated, and reviewed during post-incident analysis."}
+{"instruction": "How can employees apply for internal job openings?", "input": "", "output": "Internal job openings are posted on the company portal and employees may apply directly."}
+{"instruction": "What is the company work from home policy?", "input": "", "output": "Employees are allowed to work from home up to three days per week with prior approval from their manager."}
+{"instruction": "How can I request new software installation?", "input": "", "output": "Submit a software request through the IT service portal for approval."}
+{"instruction": "How do I connect to the company VPN?", "input": "", "output": "Install the VPN client provided by IT and log in using your company credentials."}
+{"instruction": "What should I do if my laptop is not working?", "input": "", "output": "Report the issue to IT support immediately and avoid attempting unauthorized repairs."}
+{"instruction": "What is the deployment approval process?", "input": "", "output": "Deployments require approval from the team lead and successful completion of automated tests."}
+{"instruction": "What benefits does the company offer employees?", "input": "", "output": "The company offers health insurance, paid leave, and professional development benefits."}
+{"instruction": "What should I do if my laptop is not working?", "input": "", "output": "Report the issue to IT support immediately and avoid attempting unauthorized repairs."}
+{"instruction": "Is sharing login credentials allowed?", "input": "", "output": "Sharing login credentials is strictly prohibited under company security policy."}
+{"instruction": "What benefits does the company offer employees?", "input": "", "output": "The company offers health insurance, paid leave, and professional development benefits."}
+{"instruction": "How often should passwords be changed?", "input": "", "output": "Passwords should be changed every 90 days or immediately after a suspected breach."}
+{"instruction": "What benefits does the company offer employees?", "input": "", "output": "The company offers health insurance, paid leave, and professional development benefits."}
+{"instruction": "How does the company conduct performance reviews?", "input": "", "output": "Performance reviews are conducted bi-annually based on goals, feedback, and performance metrics."}
+{"instruction": "How do I reset my company email password?", "input": "", "output": "You can reset your email password using the internal IT portal or by contacting the IT helpdesk."}
+{"instruction": "What is the company code review process?", "input": "", "output": "All code changes must be reviewed and approved by at least one senior engineer before merging."}
+{"instruction": "What is the company leave policy?", "input": "", "output": "Employees are entitled to 18 paid leaves per year, including casual and sick leave."}
+{"instruction": "What training programs are available to employees?", "input": "", "output": "Employees have access to internal and external training programs for skill development."}
+{"instruction": "How do I reset my company email password?", "input": "", "output": "You can reset your email password using the internal IT portal or by contacting the IT helpdesk."}
+{"instruction": "Is sharing login credentials allowed?", "input": "", "output": "Sharing login credentials is strictly prohibited under company security policy."}
+{"instruction": "How are production incidents handled?", "input": "", "output": "Production incidents are logged, escalated, and reviewed during post-incident analysis."}
