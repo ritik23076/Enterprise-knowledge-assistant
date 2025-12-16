@@ -2,6 +2,11 @@
 ## Fine-Tuned an Open-Source LLM for Internal Policy & IT Q&A
 ---
 
+<p align="center">
+  <img src="Gradio_live.png" alt="Enterprise Knowledge Assistant UI" width="900"/>
+</p>
+
+
 ## Project Overview
 
 This project demonstrates the **complete lifecycle of building a production-style GenAI system**, starting from **problem definition and dataset creation** to **model fine-tuning, evaluation, safety controls, UI deployment, and API exposure**.
